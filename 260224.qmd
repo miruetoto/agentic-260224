@@ -1,0 +1,20 @@
+---
+title: "asdf"
+bibliography: ref.bib
+author: "최규빈"
+subtitle: "다중척도 워크샵 2026"
+institute: "전북대학교 통계학과"
+date: "02/24/2026"
+title-block-style: default
+title-block-banner: true
+csl: ieee.csl
+---
+
+### asdf
+
+- ref @nytimes_google_bard
+
+---
+
+
+### References
