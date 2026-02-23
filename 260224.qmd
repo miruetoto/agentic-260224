@@ -36,7 +36,7 @@ csl: ieee.csl
 
 ## 인공지능
 
-{{< video https://www.youtube.com/watch?v=y7JUEhe0OfY width="900" >}}
+{{< video https://www.youtube.com/watch?v=y7JUEhe0OfY width= "900" height="500" >}}
 
 ::: aside
 80~90년대 가전제품 광고: '인공지능'이라는 단어를 처음 접한 계기 [@cfchannel_ai_8090]
@@ -349,39 +349,39 @@ csl: ieee.csl
 
 ## 실습1: 프로젝트 폴더 만들기 (1)
 
-<video controls width="900" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec1-1.mov"></video>
+<video controls width="1000" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec1-1.mov"></video>
 
 ## 실습1: 프로젝트 폴더 만들기 (2)
 
-<video controls width="900" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec1-2.mov"></video>
+<video controls width="1000" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec1-2.mov"></video>
 
 ## 실습2: Positron 열기 (1)
 
-<video controls width="900" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec2-1.mov"></video>
+<video controls width="1000" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec2-1.mov"></video>
 
 ## 실습2: Positron 열기 (2)
 
-<video controls width="900" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec2-2.mov"></video>
+<video controls width="1000" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec2-2.mov"></video>
 
 ## 실습3: R 사용하기
 
-<video controls width="900" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec3.mov"></video>
+<video controls width="1000" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec3.mov"></video>
 
 ## 실습4: Terminal 사용하기
 
-<video controls width="900" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec4.mov"></video>
+<video controls width="1000" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec4.mov"></video>
 
 ## 실습5: 클로드코드 켜보기
 
-<video controls width="900" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec5.mov"></video>
+<video controls width="1000" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec5.mov"></video>
 
 ## 실습6: .tex 사용하기
 
-<video controls width="900" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec6.mov"></video>
+<video controls width="1000" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec6.mov"></video>
 
 ## 실습7: 원격서버접속하기
 
-<video controls width="900" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec7.mov"></video>
+<video controls width="1000" style="display:block; margin:auto; max-width:100%; max-height:80vh;"><source src="movs/rec7.mov"></video>
 
 
 # 에이전틱 AI 활용 예시 
