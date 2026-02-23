@@ -175,18 +175,32 @@
     "text": "Positron 화면 구성\n\n\n\n위치\n패널\n역할\n\n\n\n\n왼쪽\nExplorer\n파일 탐색기, 프로젝트 폴더 구조\n\n\n중앙\nEditor\n코드·문서 편집 (.R, .py, .qmd, .tex 등)\n\n\n아래쪽\nTerminal\n터미널, Claude Code CLI 실행\n\n\n아래쪽\nConsole\nR/Python 콘솔 (인터프리터 연결)\n\n\n오른쪽\nPlots / Variables\n변수 목록"
   },
   {
-    "objectID": "260224.html#실습1-프로젝트-폴더-만들기",
-    "href": "260224.html#실습1-프로젝트-폴더-만들기",
+    "objectID": "260224.html#실습1-프로젝트-폴더-만들기-1",
+    "href": "260224.html#실습1-프로젝트-폴더-만들기-1",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "실습1: 프로젝트 폴더 만들기",
-    "text": "실습1: 프로젝트 폴더 만들기"
+    "section": "실습1: 프로젝트 폴더 만들기 (1)",
+    "text": "실습1: 프로젝트 폴더 만들기 (1)"
   },
   {
-    "objectID": "260224.html#실습2-positron-열기",
-    "href": "260224.html#실습2-positron-열기",
+    "objectID": "260224.html#실습1-프로젝트-폴더-만들기-2",
+    "href": "260224.html#실습1-프로젝트-폴더-만들기-2",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "실습2: Positron 열기",
-    "text": "실습2: Positron 열기"
+    "section": "실습1: 프로젝트 폴더 만들기 (2)",
+    "text": "실습1: 프로젝트 폴더 만들기 (2)"
+  },
+  {
+    "objectID": "260224.html#실습2-positron-열기-1",
+    "href": "260224.html#실습2-positron-열기-1",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "실습2: Positron 열기 (1)",
+    "text": "실습2: Positron 열기 (1)"
+  },
+  {
+    "objectID": "260224.html#실습2-positron-열기-2",
+    "href": "260224.html#실습2-positron-열기-2",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "실습2: Positron 열기 (2)",
+    "text": "실습2: Positron 열기 (2)"
   },
   {
     "objectID": "260224.html#실습3-r-사용하기",
@@ -217,11 +231,11 @@
     "text": "실습6: .tex 사용하기"
   },
   {
-    "objectID": "260224.html#실습7-설정이해하기",
-    "href": "260224.html#실습7-설정이해하기",
+    "objectID": "260224.html#실습7-원격서버접속하기",
+    "href": "260224.html#실습7-원격서버접속하기",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "실습7: 설정이해하기",
-    "text": "실습7: 설정이해하기"
+    "section": "실습7: 원격서버접속하기",
+    "text": "실습7: 원격서버접속하기"
   },
   {
     "objectID": "260224.html#example-1-압축-풀기-linux",

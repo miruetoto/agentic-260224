@@ -334,19 +334,42 @@ csl: ieee.csl
 | **아래쪽** | Console | R/Python 콘솔 (인터프리터 연결) |
 | **오른쪽** | Plots / Variables | 변수 목록  |
 
-## 실습1: 프로젝트 폴더 만들기 
+## 실습1: 프로젝트 폴더 만들기 (1)
 
-## 실습2: Positron 열기 
+{{< video movs/rec1-1.mov width="100%" height="500" >}}
+
+## 실습1: 프로젝트 폴더 만들기 (2)
+
+{{< video movs/rec1-2.mov width="100%" height="500" >}}
+
+## 실습2: Positron 열기 (1)
+
+{{< video movs/rec2-1.mov width="100%" height="500" >}}
+
+## 실습2: Positron 열기 (2)
+
+{{< video movs/rec2-2.mov width="100%" height="500" >}}
 
 ## 실습3: R 사용하기
 
-## 실습4: Terminal 사용하기 
+{{< video movs/rec3.mov width="100%" height="500" >}}
 
-## 실습5: 클로드코드 켜보기 
+## 실습4: Terminal 사용하기
 
-## 실습6: .tex 사용하기 
+{{< video movs/rec4.mov width="100%" height="500" >}}
 
-## 실습7: 설정이해하기
+## 실습5: 클로드코드 켜보기
+
+{{< video movs/rec5.mov width="100%" height="500" >}}
+
+## 실습6: .tex 사용하기
+
+{{< video movs/rec6.mov width="100%" height="500" >}}
+
+## 실습7: 원격서버접속하기
+
+{{< video movs/rec7.mov width="100%" height="500" >}}
+
 
 # 에이전틱 AI 활용 예시 
 
