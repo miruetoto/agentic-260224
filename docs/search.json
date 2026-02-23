@@ -2,105 +2,105 @@
   {
     "objectID": "260224.html#인공지능",
     "href": "260224.html#인공지능",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "인공지능",
     "text": "인공지능\n\n\n\n80~90년대 가전제품 광고: ’인공지능’이라는 단어를 처음 접한 계기 [1]"
   },
   {
     "objectID": "260224.html#인공지능-1",
     "href": "260224.html#인공지능-1",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "인공지능",
     "text": "인공지능\n’인공지능’이라는 단어는 당시 기술로는 설명하기 어렵지만, 인간처럼 똑똑하게 행동하는 무언가를 지칭하는 그릇\n\nFigure: 시대별로 변화해 온 인공지능(AI)의 의미 (이미지: Gemini 생성)"
   },
   {
     "objectID": "260224.html#agentic-ai",
     "href": "260224.html#agentic-ai",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "Agentic AI",
     "text": "Agentic AI\n지금 그 그릇에 담기는 의미는??\n\nFigure: 바이브코딩과 에이전틱 코딩의 차이점[2]"
   },
   {
     "objectID": "260224.html#agentic-ai-1",
     "href": "260224.html#agentic-ai-1",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "Agentic AI",
     "text": "Agentic AI\n에이전틱 AI 시대가 왔다면, 배워서 쓰면 되지 않을까? — 생각보다 단순하지 않다.\n\nFigure: AI를 ’묻는 도구’로 쓰는 것과 ’직접 운전하는 엔진’으로 다루는 것의 차이 (이미지: Gemini 생성)"
   },
   {
     "objectID": "260224.html#agentic-ai-2",
     "href": "260224.html#agentic-ai-2",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "Agentic AI",
     "text": "Agentic AI\n왜 활용하기 어려운가?\n\n정보 과잉: 알아야 할 개념이 너무 많고 다양함 (MCP, RAG, 에이전틱 AI, 가상환경 \\(\\dots\\)) — 나에게 필요한 흐름을 잡기 어려움\n최적화의 어려움: R도 써야 하고, Python도 써야 하고, LaTeX도 써야 하고… 이 모든 것을 적당히 아우르는 환경을 구축하는 것이 쉽지 않음\n상상력의 부족: 에이전틱 AI로 무엇을 할 수 있는지 감을 잡기 어려움\n\n\nAI 개발 환경과 생태계를 이해하고, 나에게 필요한 환경만 셋팅하는 것도 하나의 역량이라고 생각합니다.\n\n이 발표의 목적\n\n에이전틱 AI 활용의 출발점을 제공하는 것"
   },
   {
     "objectID": "260224.html#ai-타임라인-1",
     "href": "260224.html#ai-타임라인-1",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "AI 타임라인",
     "text": "AI 타임라인\n\n2022년 11월\n\nChatGPT 출시\n\n2022년 12월\n\nPerplexity 출시: 답변에 인용 출처를 제공 [3] // 살펴보기"
   },
   {
     "objectID": "260224.html#ai-타임라인-2",
     "href": "260224.html#ai-타임라인-2",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "AI 타임라인",
     "text": "AI 타임라인\n\n2023년 2월\n\nGoogle Bard 발표 [4] \\(\\to\\) 시연 오류로 주가 급락 [5], [6]\n\n2023년 3월\n\nGPT-4 출시 (멀티모달) [7]\nClaude 1.0 출시 [8]\nCursor AI 출시 [9] // 살펴보기\n\n2023년 7월\n\nDeepSeek 설립 [10]\nClaude 2 출시 [8]\n\n2023년 12월\n\nGoogle Gemini 1.0 발표 [11]"
   },
   {
     "objectID": "260224.html#ai-타임라인-3",
     "href": "260224.html#ai-타임라인-3",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "AI 타임라인",
     "text": "AI 타임라인\n\n2024년 2월\n\nOpenAI Sora 데모 공개 [12]\n\n2024년 3월\n\nGoogle Gemini 1.5 Pro 발표 [13]\nClaude 3 (Opus, Sonnet, Haiku) 출시 [8]\n\n2024년 5월\n\nGPT-4o 출시 (텍스트, 이미지, 비디오) [14]\n\n2024년 6월\n\nClaude 3.5 Sonnet + Artifacts 출시 [8] // 살펴보기1, 살펴보기2"
   },
   {
     "objectID": "260224.html#ai-타임라인-4",
     "href": "260224.html#ai-타임라인-4",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "AI 타임라인",
     "text": "AI 타임라인\n\n2024년 7월\n\nSearchGPT (ChatGPT Search) [15]\n\n2024년 9월\n\nOpenAI o1 추론 모델 출시 [16]\n\n2024년 11월\n\nWindsurf 출시 (Cursor AI와 경쟁) [17]\nMCP 출시 (Anthropic이 오픈소스로 공개) [18] // 살펴보기1, 살펴보기2"
   },
   {
     "objectID": "260224.html#ai-타임라인-5",
     "href": "260224.html#ai-타임라인-5",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "AI 타임라인",
     "text": "AI 타임라인\n\n2025년 1월\n\nDeepSeek-R1 출시 – Nvidia 주가 18% 급락 [19], [20], [21], [22]\n\n2025년 2월\n\nNotebookLM 출시 [23], [24] // 살펴보기\nClaude 3.7 Sonnet + Claude Code 연구 프리뷰 [25]\nVibe Coding 용어 등장 [26]\n\n2025년 5월\n\nClaude Code 정식 출시 [27] // 살펴보기\n\n2025년 7월\n\nGoogle Gemini CLI 출시 [28]\nPerplexity Comet 브라우저 출시 [29] // 살펴보기"
   },
   {
     "objectID": "260224.html#ai-타임라인-6",
     "href": "260224.html#ai-타임라인-6",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "AI 타임라인",
     "text": "AI 타임라인\n\n2025년 8월\n\n나노바나나(Nano Banana) 등장 [30]\n\n2025년 10월\n\nOpenAI Codex 정식 출시(GA) [31]\n\n2025년 11월\n\n구글 Antigravity(안티그래비티) 출시 [32]\nClawdbot(클로드봇) 최초 출시 // 살펴보기"
   },
   {
     "objectID": "260224.html#ai-타임라인-7",
     "href": "260224.html#ai-타임라인-7",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "AI 타임라인",
     "text": "AI 타임라인\n\n2026년 1월\n\nClawdbot: Anthropic의 상표권 압박, ‘Clawd’ 명칭 사용 중단 요구 [33]\nClawdbot: ’Moltbot’을 거쳐 최종적으로 ’OpenClaw’로 개명, 오픈소스 정신 강조\n\n2026년 2월\n\nOpenAI, OpenClaw 개발자 전격 영입 [34]\nClaude Code Agent Teams(멀티에이전트시대) [35]"
   },
   {
     "objectID": "260224.html#ai-타임라인-8",
     "href": "260224.html#ai-타임라인-8",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "AI 타임라인",
     "text": "AI 타임라인\n주요 경쟁 구도\n\n모델: ChatGPT vs Claude vs Gemini\n에이전틱 AI: Codex vs Claude Code vs Gemini CLI\n통합개발환경: Cursor vs Antigravity (VSCode도 여전히 건재)\n이미지/영상 생성: 나노바나나, DALL-E, Midjourney, Sora\n브라우저 제어 에이전트: Perplexity Comet, Atlas, Claude for Chrome\n기타: NotebookLM (문서→팟캐스트), Gemini for Workspace"
   },
   {
     "objectID": "260224.html#ai-타임라인-9",
     "href": "260224.html#ai-타임라인-9",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "AI 타임라인",
     "text": "AI 타임라인\n저의 구독정보\n\n\n\n서비스\n요금제\n월 요금\n왜?\n\n\n\n\nChatGPT\nPlus \\(\\to\\) Pro \\(\\to\\) Plus\n$20 \\(\\to\\) $200 \\(\\to\\) $20\n-\n\n\nPerplexity\nPro\n$20\nRAG\n\n\nCursor AI\nPro \\(\\to\\) 해지\n$20 \\(\\to\\) 0$\n\n\n\nClaude\nPro \\(\\to\\) Max 20x\n$20 \\(\\to\\) $200\nClaude Code\n\n\nGemini + NotebookLM\nAI Pro\n$20\nGemini CLI, NotebookLM\n\n\n\n\n구독 전략: 번거롭더라도 월 단위 구독이 유리해 보임. 왜?"
   },
   {
     "objectID": "260224.html#references",
     "href": "260224.html#references",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "References",
     "text": "References\n\n\n\n\n[1] C. CHANNEL, “80 90 인공지능 가전제품 광고 – ’80 ’90 korean a.i. Home appliances tv commercials.” https://www.youtube.com/watch?v=y7JUEhe0OfY, 2020.\n\n\n[2] R. Sapkota, K. I. Roumeliotis, and M. Karkee, “Vibe coding vs. Agentic coding: Fundamentals and practical implications of agentic ai,” arXiv preprint arXiv:2505.19443, 2025.\n\n\n[3] “Perplexity ask: A game-changing search tool powered by AI.” https://towardsai.net/p/l/perplexity-ask-a-game-changing-search-tool-powered-by-ai.\n\n\n[4] “Google introduces bard, an AI chatbot.” https://www.nytimes.com/2023/02/06/technology/google-bard-ai-chatbot.html.\n\n\n[5] “구글 AI챗봇 ‘바드’ 오답에 시총 126조원 증발.” https://www.seoul.co.kr/news/international/2023/02/10/20230210021001.\n\n\n[6] “자존심 구긴 구글…새로 내놓은 챗봇AI 기대 못 미쳐 주가 폭락.” https://www.chosun.com/economy/tech_it/2023/02/09/MWRHL6L67READLOMI2HWOVDRPA/.\n\n\n[7] “GPT-4.” https://en.wikipedia.org/wiki/GPT-4.\n\n\n[8] “Claude (language model).” https://en.wikipedia.org/wiki/Claude_(language_model).\n\n\n[9] “How cursor serves billions of AI code completions every day.” https://blog.bytebytego.com/p/how-cursor-serves-billions-of-ai.\n\n\n[10] “DeepSeek.” https://en.wikipedia.org/wiki/DeepSeek.\n\n\n[11] CNN, “Google launches gemini, its most-advanced AI model yet, as it races to compete with ChatGPT.”\n\n\n[12] RetroFuturista, “OpenAI unveils sora: A revolutionary AI that transforms text into video.” https://retrofuturista.com/openai-sora/.\n\n\n[13] Google DeepMind, “Gemini 2.5: Our newest gemini model with thinking.” https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/.\n\n\n[14] “GPT-4o.” https://en.wikipedia.org/wiki/GPT-4o.\n\n\n[15] “ChatGPT search.” https://en.wikipedia.org/wiki/ChatGPT_Search.\n\n\n[16] “OpenAI o1.” https://en.wikipedia.org/wiki/OpenAI_o1.\n\n\n[17] “Codeium introduces the windsurf editor, enabling developers to work with ‘AI flows’.” https://www.webwire.com/ViewPressRel.asp?aId=329485.\n\n\n[18] Anthropic, “Model context protocol (MCP) open-source release.” https://www.anthropic.com/news/model-context-protocol.\n\n\n[19] V. capitalist Marc Andreessen / Fortune, “Marc andreessen warns DeepSeek is ‘AI’s sputnik moment’,” Fortune, Jan. 2025.\n\n\n[20] D. Guo et al., “Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning,” arXiv preprint arXiv:2501.12948, 2025.\n\n\n[21] DeepSeek, “DeepSeek-R1 (hugging face model hub).” https://huggingface.co/deepseek-ai/DeepSeek-R1.\n\n\n[22] J. S. / Markets Insider, “Tech stock sell-off: Nvidia, microsoft, others hit by DeepSeek debut,” Markets Insider (Business Insider), Jan. 2025.\n\n\n[23] “NotebookLM.” https://en.wikipedia.org/wiki/NotebookLM.\n\n\n[24] 김민정, “‘챗GPT, 거짓말해서 안 써요’ 대학생 쓰는 ‘노트북LM’ 뭐길래.” 중앙일보 (요약 제공 via ZUM News), Jun. 10, 2025.\n\n\n[25] Anthropic, “Claude code research preview.” https://www.anthropic.com/news/claude-3-7-sonnet.\n\n\n[26] “Vibe coding.” https://en.wikipedia.org/wiki/Vibe_coding.\n\n\n[27] Anthropic, “Claude code: Deep coding at terminal velocity.” https://www.anthropic.com/claude-code.\n\n\n[28] “Google’s gemini CLI: What is it and why it matters?” Science Insight.\n\n\n[29] P. Team, “Introducing comet: Browse at the speed of thought.” https://www.perplexity.ai/hub/blog/introducing-comet.\n\n\n[30] Google, “How nano banana got its name.” https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/, Aug. 26, 2025.\n\n\n[31] OpenAI, “Codex is now generally available.” https://www.neowin.net/news/openai-codex-hits-general-availability-with-new-slack-integration/, Oct. 06, 2025.\n\n\n[32] Mark, “Google antigravity: The revolutionary AI-first IDE that’s redefining how developers code in 2025,” Humai Blog, Nov. 2025, Available: https://www.humai.blog/google-antigravity-the-revolutionary-ai-first-ide-thats-redefining-how-developers-code-in-2025/\n\n\n[33] “Clawdbot becomes moltbot after anthropic trademark issue,” Trending Topics, Jan. 2026, Available: https://www.trendingtopics.eu/clawdbot-moltbot-anthropic/\n\n\n[34] A. Ha, “OpenClaw creator Peter Steinberger joins OpenAI,” TechCrunch, Feb. 2026, Available: https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/\n\n\n[35] Anthropic, “Introducing Claude Opus 4.6.” https://www.anthropic.com/news/claude-opus-4-6, Feb. 05, 2026."
   },
@@ -170,35 +170,35 @@
   {
     "objectID": "260224.html#latex-1",
     "href": "260224.html#latex-1",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "LaTeX",
     "text": "LaTeX\n\n\n\n\n\n\n\n\n\n\n\n레거시 편집기1\nOverleaf\nVSCode\nPositron\n\n\n\n\nAI Assist\n불가능\n가능\n가능\n가능\n\n\n+ 에이전틱 AI\n불가능\n불가능\n가능\n가능\n\n\n컴파일 속도\n매우 빠름\n느림\n빠름\n빠름\n\n\n에러 수정\n불편\n편리\n매우 편리\n매우 편리\n\n\n표·그림 작성\n불편\n불편\n매우 편리\n매우 편리\n\n\n편의 기능\n미흡\n매우 우수\n우수\n우수\n\n\n협업 기능\n불가능\n가능\n불가능\n불가능\n\n\n비용\n무료\n유료\n무료\n무료\n\n\n\nTeXShop, Sublime Text, TeXstudio"
   },
   {
     "objectID": "260224.html#논문-연구를-위해-필요했던-도구들",
     "href": "260224.html#논문-연구를-위해-필요했던-도구들",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "논문 연구를 위해 필요했던 도구들",
     "text": "논문 연구를 위해 필요했던 도구들\n\n결론부터 말하면, 저는 Positron 하나로 통합했습니다. 더 이상 여러 도구를 오갈 필요가 없어졌습니다.\n\n\nIDE가상환경LaTeX에이전틱 AI기타 개발 도구\n\n\n\nR: RStudio, VSCode, Jupyter\nPython: VSCode, VSCode Forks(Cursor, Windsurf, Antigravity), Jupyter, PyCharm, Spyder 등\nJulia: VSCode, Pluto, Jupyter\n\n\n\n\nPython: venv(+pip), conda, uv\nR: conda (사실 없어도 무방)\nJulia: conda (사실 없어도 무방)\n\n\n\n\nTeXShop (Mac 기본)\nTeXstudio\nSublime Text + LaTeXTools\nOverleaf (웹 기반 협업)\nVSCode + LaTeX Workshop\n\n\n\n쓰는 도구 — 이미 만들어진 AI를 활용\n\n웹: ChatGPT, Claude, Gemini\nCLI: Claude Code, OpenAI Codex, Gemini CLI\nIDE: Cursor, Windsurf, GitHub Copilot, Cline 등\n\n만드는 도구 — 나만의 에이전트를 구축\n\nLangChain/LangGraph, CrewAI, AutoGen\nOpenAI Agents SDK, Google ADK, LlamaIndex 등\n\n\n\n서버 운영관련\n\nLinux Terminal, NFS, 병렬처리, Docker(학과·연구실 단위 서버 관리)\n\nGit\n\nTerminal, GitHub Desktop, GitKraken, VSCode 내장 Git\n\n…"
   },
   {
     "objectID": "260224.html#ide-비교-r-사용자-관점",
     "href": "260224.html#ide-비교-r-사용자-관점",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "IDE 비교: R 사용자 관점",
     "text": "IDE 비교: R 사용자 관점\n\n\n\n\nRStudio\nJupyter\nVSCode\nPositron\n\n\n\n\nAI Assist\n가능\n가능\n가능\n가능\n\n\n+ 에이전틱 AI\n불가능\n불가능\n가능\n가능\n\n\n.R 작업\n매우 편리\n불편\n불편\n매우 편리\n\n\n.ipynb 작업\n불가능\n매우 편리\n편리\n편리\n\n\nR+Python 혼용\n불편\n매우 편리\n매우 편리\n매우 편리\n\n\n다중 커널\n불가능\n가능\n가능\n가능\n\n\n콘솔 연결\n가능\n불가능\n불가능\n가능\n\n\n이미지 리사이즈\n가능\n불가능\n불가능\n가능\n\n\n세션 유지(재접속)\n불가능\n가능\n불가능\n가능(SSH)\n\n\n편의 기능\n우수\n미흡\n우수\n매우 우수"
   },
   {
     "objectID": "260224.html#ide-비교-python-사용자-관점",
     "href": "260224.html#ide-비교-python-사용자-관점",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "IDE 비교: Python 사용자 관점",
     "text": "IDE 비교: Python 사용자 관점\n\n\n\n\nJupyter\nVSCode\nCursor AI\nPositron\n\n\n\n\nAI Assist\n가능\n가능\n가능(매우 우수)\n가능\n\n\n+ 에이전틱 AI\n불가능\n가능\n가능\n가능\n\n\n.py 작업\n불편\n매우 편리\n매우 편리\n매우 편리\n\n\n.ipynb 작업\n매우 편리\n편리\n편리\n편리\n\n\nR+Python 혼용\n편리\n편리\n편리\n매우 편리\n\n\n가상환경 전환\n불편\n매우 편리\n매우 편리\n매우 편리\n\n\n다중 커널\n가능\n가능\n가능\n가능\n\n\n콘솔 연결\n불가능\n가능\n가능\n가능\n\n\n이미지 리사이즈\n불가능\n불가능\n불가능\n가능\n\n\n세션 유지(재접속)\n가능\n불가능\n불가능\n가능(SSH)\n\n\n편의 기능\n미흡\n매우 우수\n매우 우수\n매우 우수"
   },
   {
     "objectID": "260224.html#에이전틱-ai-활용-환경-비교",
     "href": "260224.html#에이전틱-ai-활용-환경-비교",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "에이전틱 AI 활용 환경 비교",
     "text": "에이전틱 AI 활용 환경 비교\n\n터미널: Claude Code 등 CLI 기반 — 코드 컨텍스트 인식, 멀티파일 편집, MCP 지원\nIDE(VS Forks): Positron, Cursor AI 등 — 터미널의 기능 + 이미지 붙여넣기 가능"
   }

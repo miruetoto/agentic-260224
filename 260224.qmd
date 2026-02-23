@@ -1,5 +1,5 @@
 ---
-title: "통계 연구자를 위한 에이전틱 AI 활용법"
+title: "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)"
 bibliography: ref.bib
 author: "최규빈"
 subtitle: "다중척도 워크샵 2026"
@@ -157,9 +157,7 @@ csl: ieee.csl
 
 # Positron
 
-
 ## 논문 연구를 위해 필요했던 도구들
-
 
 > 결론부터 말하면, 저는 Positron 하나로 통합했습니다. 더 이상 여러 도구를 오갈 필요가 없어졌습니다.
 
