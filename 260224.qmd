@@ -11,7 +11,15 @@ csl: ieee.csl
 
 ---
 
-# AI 발전사
+## 목차
+
+1. AI의 어제와 오늘
+2. AI 도구 연대기
+3. Why Positron?
+4. Positron + Claude Code 튜토리얼
+5. 에이전틱 AI 활용 예시
+
+# AI의 어제와 오늘
 
 ## 인공지능
 
@@ -53,15 +61,15 @@ csl: ieee.csl
 
 - 에이전틱 AI 활용의 출발점을 제공하는 것
 
-# AI 타임라인
-## AI 타임라인
+# AI 도구 연대기
+## 2022.11 - 2022.12
 
 - 2022년 11월
     - ChatGPT 출시 
 - 2022년 12월
     - Perplexity 출시: 답변에 인용 출처를 제공 [@towardsai_perplexity] // [살펴보기]()
 
-## AI 타임라인   
+## 2023.01 - 2023.12
 
 - 2023년 2월
     - Google Bard 발표 [@nytimes_google_bard] $\to$ 시연 오류로 주가 급락 [@seoul_news_20230210; @chosun_google_bard_stock_drop_2023]
@@ -75,7 +83,7 @@ csl: ieee.csl
 - 2023년 12월
     - Google Gemini 1.0 발표 [@cnn_google_gemini_launch_2023]
 
-## AI 타임라인
+## 2024.01 - 2024.06
 
 - 2024년 2월 
     - OpenAI Sora 데모 공개 [@retrofuturista_sora]
@@ -87,7 +95,7 @@ csl: ieee.csl
 - 2024년 6월
     - Claude 3.5 Sonnet + Artifacts 출시 [@wikipedia_claude_language_model] // [살펴보기1](), [살펴보기2]()
 
-## AI 타임라인
+## 2024.07 - 2024.12
 
 - 2024년 7월
     - SearchGPT (ChatGPT Search) [@wikipedia_chatgpt_search]
@@ -97,7 +105,7 @@ csl: ieee.csl
     - Windsurf 출시 (Cursor AI와 경쟁) [@webwire_windsurf_editor_launch]
     - MCP 출시 (Anthropic이 오픈소스로 공개) [@anthropic_mcp_open_source] // [살펴보기1](), [살펴보기2]()
 
-## AI 타임라인
+## 2025.01 - 2025.07
 
 - 2025년 1월 
     - DeepSeek-R1 출시 -- Nvidia 주가 18% 급락 [@fortune_deepseek_sputnik; @guo2025deepseek; @huggingface_deepseek_r1; @bi_deepseek_nvidia_selloff_2025]
@@ -111,7 +119,7 @@ csl: ieee.csl
     - Google Gemini CLI 출시 [@scienceinsight_gemini_cli_intro]
     - Perplexity Comet 브라우저 출시 [@perplexity_comet_launch] // [살펴보기]()
 
-## AI 타임라인
+## 2025.08 - 2025.12
 
 - 2025년 8월
     - 나노바나나(Nano Banana) 등장 [@google_aistudio_nanobanana_2025]
@@ -121,7 +129,7 @@ csl: ieee.csl
     - 구글 Antigravity(안티그래비티) 출시 [@humai_google_antigravity_2025]
     - Clawdbot(클로드봇) 최초 출시 // [살펴보기]()
 
-## AI 타임라인   
+## 2026.01 - 2026.02
 
 - 2026년 1월    
     - Clawdbot: Anthropic의 상표권 압박, 'Clawd' 명칭 사용 중단 요구 [@mashable_clawdbot_rename_2026]
@@ -130,9 +138,7 @@ csl: ieee.csl
     - OpenAI, OpenClaw 개발자 전격 영입 [@techcrunch_openclaw_acquisition_2026]
     - Claude Code Agent Teams(멀티에이전트시대) [@anthropic_agent_teams_2026]
 
-## AI 타임라인   
-
-***주요 경쟁 구도***
+## 주요 경쟁 구도
 
 - 모델: ChatGPT vs Claude vs Gemini
 - 에이전틱 AI: Codex vs Claude Code vs Gemini CLI
@@ -141,9 +147,7 @@ csl: ieee.csl
 - 브라우저 제어 에이전트: Perplexity Comet, Atlas, Claude for Chrome
 - 기타: NotebookLM (문서→팟캐스트), Gemini for Workspace 
 
-## AI 타임라인
-
-***저의 구독정보***
+## 저의 구독 정보
 
 | 서비스 | 요금제 | 월 요금 | 왜? |
 |--------|--------|---------|---------|
@@ -155,7 +159,7 @@ csl: ieee.csl
 
 > 구독 전략: 번거롭더라도 월 단위 구독이 유리해 보임. [왜?]()
 
-# Positron
+# Why Positron?
 
 ## 논문 연구를 위해 필요했던 도구들
 
@@ -259,5 +263,128 @@ csl: ieee.csl
 
 - **터미널**: Claude Code 등 CLI 기반 — 코드 컨텍스트 인식, 멀티파일 편집, MCP 지원
 - **IDE(VS Forks)**: Positron, Cursor AI 등 — 터미널의 기능 + **이미지 붙여넣기 가능**
+
+
+# Positron + Claude Code 튜토리얼
+
+## Positron, Claude Code 설치
+
+- Positron: [positron.posit.co](https://positron.posit.co)
+- Claude Code: [claude.ai/download](https://claude.ai/download)
+
+## OpenInTerminal-Lite
+
+- [github.com/Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
+- Finder에서 현재 폴더를 터미널/에디터로 바로 여는 앱
+- 설정에서 에디터를 **Positron**으로 지정 → Finder에서 바로 Positron 실행
+- 터미널 설정 → `claude` 바로 실행 가능
+
+## Positron 셋팅: Extensions
+
+- 기본 내장: Quarto, Jupyter, Ruff, Pyright, Shiny 등
+- 필수: Claude Code for VS Code, LaTeX Workshop
+- 선택: Codex, Material Icon Theme, 마음에 드는 컬러 테마(GitHub Theme 등), ... 
+
+## Positron 셋팅: Settings
+
+`Cmd + Shift + P` → "Open Settings (JSON)" 검색
+
+```json
+{
+    // Positron 내장 AI 끄기 (Claude Code 사용하므로 불필요)
+    "positron.assistant.enable": false,
+
+    // 사이드바 아이콘을 상단에 배치 (화면 넓게 사용)
+    "workbench.activityBar.location": "top",
+
+    // 터미널 폰트 (아이콘·특수문자 깨짐 방지)
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+
+    // Claude Code를 사이드바에 배치
+    "claudeCode.preferredLocation": "sidebar",
+
+    // 마크다운에 이미지 붙여넣기 시 images 폴더에 자동 저장
+    "markdown.editor.filePaste.copyIntoWorkspace": "mediaFiles",
+    "markdown.copyFiles.destination": {
+        "**/*": "images/${fileName}"
+    },
+
+    // LaTeX 파일만 자동 줄바꿈
+    "[latex]": {
+        "editor.wordWrap": "on"
+    },
+
+    // R, Python 인터프리터를 자동 실행하지 않고 수동 선택
+    "[python]": {
+        "interpreters.startupBehavior": "manual"
+    },
+    "[r]": {
+        "interpreters.startupBehavior": "manual"
+    }
+}
+```
+
+## Positron 화면 구성
+
+| 위치 | 패널 | 역할 |
+|---|---|---|
+| **왼쪽** | Explorer | 파일 탐색기, 프로젝트 폴더 구조 |
+| **중앙** | Editor | 코드·문서 편집 (.R, .py, .qmd, .tex 등) |
+| **아래쪽** | Terminal | 터미널, Claude Code CLI 실행 |
+| **아래쪽** | Console | R/Python 콘솔 (인터프리터 연결) |
+| **오른쪽** | Plots / Variables | 변수 목록  |
+
+## 실습1: 프로젝트 폴더 만들기 
+
+## 실습2: Positron 열기 
+
+## 실습3: R 사용하기
+
+## 실습4: Terminal 사용하기 
+
+## 실습5: 클로드코드 켜보기 
+
+## 실습6: .tex 사용하기 
+
+## 실습7: 설정이해하기
+
+# 에이전틱 AI 활용 예시 
+
+## Example 1: 압축 풀기 (Linux)
+
+## Example 2: 파일 정리
+
+## Example 3: 데이터 정리 (기말고사 점수표)
+
+## Example 4: 디버깅 (짜증나는 인덱스 코드 해결)
+
+## Example 5: 데이터 다운로드 + 불러오기
+
+## Example 6: 패키지 설치 + 불러오기
+
+## Example 7: 프로젝트 파악
+
+## Example 8: 이미지 변환 (샤프닝, 스무딩, 언더샘플링, 리사이징)
+
+## Example 9: 오디오 변환 (언더샘플링)
+
+## Example 10: WT 등 간단한 변환 적용
+
+## Example 11: 프로젝트 페이지 만들기
+
+## Example 12: 패키지 배포
+
+## Example 13: IoU 계산
+
+## Example 14: 시각화
+
+## Example 15: LaTeX 다이어그램
+
+## Example 16: 가상환경 관리
+
+## Example 17: 여러 커널을 이용한 반복 계산
+
+## Example 18: 표 작성 + 삽입
+
 
 ## References

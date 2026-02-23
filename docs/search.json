@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "260224.html#목차",
+    "href": "260224.html#목차",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "목차",
+    "text": "목차\n\nAI의 어제와 오늘\nAI 도구 연대기\nWhy Positron?\nPositron + Claude Code 튜토리얼\n에이전틱 AI 활용 예시"
+  },
+  {
     "objectID": "260224.html#인공지능",
     "href": "260224.html#인공지능",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
@@ -35,144 +42,67 @@
     "text": "Agentic AI\n왜 활용하기 어려운가?\n\n정보 과잉: 알아야 할 개념이 너무 많고 다양함 (MCP, RAG, 에이전틱 AI, 가상환경 \\(\\dots\\)) — 나에게 필요한 흐름을 잡기 어려움\n최적화의 어려움: R도 써야 하고, Python도 써야 하고, LaTeX도 써야 하고… 이 모든 것을 적당히 아우르는 환경을 구축하는 것이 쉽지 않음\n상상력의 부족: 에이전틱 AI로 무엇을 할 수 있는지 감을 잡기 어려움\n\n\nAI 개발 환경과 생태계를 이해하고, 나에게 필요한 환경만 셋팅하는 것도 하나의 역량이라고 생각합니다.\n\n이 발표의 목적\n\n에이전틱 AI 활용의 출발점을 제공하는 것"
   },
   {
-    "objectID": "260224.html#ai-타임라인-1",
-    "href": "260224.html#ai-타임라인-1",
+    "objectID": "260224.html#section",
+    "href": "260224.html#section",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "AI 타임라인",
-    "text": "AI 타임라인\n\n2022년 11월\n\nChatGPT 출시\n\n2022년 12월\n\nPerplexity 출시: 답변에 인용 출처를 제공 [3] // 살펴보기"
+    "section": "2022.11 - 2022.12",
+    "text": "2022.11 - 2022.12\n\n2022년 11월\n\nChatGPT 출시\n\n2022년 12월\n\nPerplexity 출시: 답변에 인용 출처를 제공 [3] // 살펴보기"
   },
   {
-    "objectID": "260224.html#ai-타임라인-2",
-    "href": "260224.html#ai-타임라인-2",
+    "objectID": "260224.html#section-1",
+    "href": "260224.html#section-1",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "AI 타임라인",
-    "text": "AI 타임라인\n\n2023년 2월\n\nGoogle Bard 발표 [4] \\(\\to\\) 시연 오류로 주가 급락 [5], [6]\n\n2023년 3월\n\nGPT-4 출시 (멀티모달) [7]\nClaude 1.0 출시 [8]\nCursor AI 출시 [9] // 살펴보기\n\n2023년 7월\n\nDeepSeek 설립 [10]\nClaude 2 출시 [8]\n\n2023년 12월\n\nGoogle Gemini 1.0 발표 [11]"
+    "section": "2023.01 - 2023.12",
+    "text": "2023.01 - 2023.12\n\n2023년 2월\n\nGoogle Bard 발표 [4] \\(\\to\\) 시연 오류로 주가 급락 [5], [6]\n\n2023년 3월\n\nGPT-4 출시 (멀티모달) [7]\nClaude 1.0 출시 [8]\nCursor AI 출시 [9] // 살펴보기\n\n2023년 7월\n\nDeepSeek 설립 [10]\nClaude 2 출시 [8]\n\n2023년 12월\n\nGoogle Gemini 1.0 발표 [11]"
   },
   {
-    "objectID": "260224.html#ai-타임라인-3",
-    "href": "260224.html#ai-타임라인-3",
+    "objectID": "260224.html#section-2",
+    "href": "260224.html#section-2",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "AI 타임라인",
-    "text": "AI 타임라인\n\n2024년 2월\n\nOpenAI Sora 데모 공개 [12]\n\n2024년 3월\n\nGoogle Gemini 1.5 Pro 발표 [13]\nClaude 3 (Opus, Sonnet, Haiku) 출시 [8]\n\n2024년 5월\n\nGPT-4o 출시 (텍스트, 이미지, 비디오) [14]\n\n2024년 6월\n\nClaude 3.5 Sonnet + Artifacts 출시 [8] // 살펴보기1, 살펴보기2"
+    "section": "2024.01 - 2024.06",
+    "text": "2024.01 - 2024.06\n\n2024년 2월\n\nOpenAI Sora 데모 공개 [12]\n\n2024년 3월\n\nGoogle Gemini 1.5 Pro 발표 [13]\nClaude 3 (Opus, Sonnet, Haiku) 출시 [8]\n\n2024년 5월\n\nGPT-4o 출시 (텍스트, 이미지, 비디오) [14]\n\n2024년 6월\n\nClaude 3.5 Sonnet + Artifacts 출시 [8] // 살펴보기1, 살펴보기2"
   },
   {
-    "objectID": "260224.html#ai-타임라인-4",
-    "href": "260224.html#ai-타임라인-4",
+    "objectID": "260224.html#section-3",
+    "href": "260224.html#section-3",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "AI 타임라인",
-    "text": "AI 타임라인\n\n2024년 7월\n\nSearchGPT (ChatGPT Search) [15]\n\n2024년 9월\n\nOpenAI o1 추론 모델 출시 [16]\n\n2024년 11월\n\nWindsurf 출시 (Cursor AI와 경쟁) [17]\nMCP 출시 (Anthropic이 오픈소스로 공개) [18] // 살펴보기1, 살펴보기2"
+    "section": "2024.07 - 2024.12",
+    "text": "2024.07 - 2024.12\n\n2024년 7월\n\nSearchGPT (ChatGPT Search) [15]\n\n2024년 9월\n\nOpenAI o1 추론 모델 출시 [16]\n\n2024년 11월\n\nWindsurf 출시 (Cursor AI와 경쟁) [17]\nMCP 출시 (Anthropic이 오픈소스로 공개) [18] // 살펴보기1, 살펴보기2"
   },
   {
-    "objectID": "260224.html#ai-타임라인-5",
-    "href": "260224.html#ai-타임라인-5",
+    "objectID": "260224.html#section-4",
+    "href": "260224.html#section-4",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "AI 타임라인",
-    "text": "AI 타임라인\n\n2025년 1월\n\nDeepSeek-R1 출시 – Nvidia 주가 18% 급락 [19], [20], [21], [22]\n\n2025년 2월\n\nNotebookLM 출시 [23], [24] // 살펴보기\nClaude 3.7 Sonnet + Claude Code 연구 프리뷰 [25]\nVibe Coding 용어 등장 [26]\n\n2025년 5월\n\nClaude Code 정식 출시 [27] // 살펴보기\n\n2025년 7월\n\nGoogle Gemini CLI 출시 [28]\nPerplexity Comet 브라우저 출시 [29] // 살펴보기"
+    "section": "2025.01 - 2025.07",
+    "text": "2025.01 - 2025.07\n\n2025년 1월\n\nDeepSeek-R1 출시 – Nvidia 주가 18% 급락 [19], [20], [21], [22]\n\n2025년 2월\n\nNotebookLM 출시 [23], [24] // 살펴보기\nClaude 3.7 Sonnet + Claude Code 연구 프리뷰 [25]\nVibe Coding 용어 등장 [26]\n\n2025년 5월\n\nClaude Code 정식 출시 [27] // 살펴보기\n\n2025년 7월\n\nGoogle Gemini CLI 출시 [28]\nPerplexity Comet 브라우저 출시 [29] // 살펴보기"
   },
   {
-    "objectID": "260224.html#ai-타임라인-6",
-    "href": "260224.html#ai-타임라인-6",
+    "objectID": "260224.html#section-5",
+    "href": "260224.html#section-5",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "AI 타임라인",
-    "text": "AI 타임라인\n\n2025년 8월\n\n나노바나나(Nano Banana) 등장 [30]\n\n2025년 10월\n\nOpenAI Codex 정식 출시(GA) [31]\n\n2025년 11월\n\n구글 Antigravity(안티그래비티) 출시 [32]\nClawdbot(클로드봇) 최초 출시 // 살펴보기"
+    "section": "2025.08 - 2025.12",
+    "text": "2025.08 - 2025.12\n\n2025년 8월\n\n나노바나나(Nano Banana) 등장 [30]\n\n2025년 10월\n\nOpenAI Codex 정식 출시(GA) [31]\n\n2025년 11월\n\n구글 Antigravity(안티그래비티) 출시 [32]\nClawdbot(클로드봇) 최초 출시 // 살펴보기"
   },
   {
-    "objectID": "260224.html#ai-타임라인-7",
-    "href": "260224.html#ai-타임라인-7",
+    "objectID": "260224.html#section-6",
+    "href": "260224.html#section-6",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "AI 타임라인",
-    "text": "AI 타임라인\n\n2026년 1월\n\nClawdbot: Anthropic의 상표권 압박, ‘Clawd’ 명칭 사용 중단 요구 [33]\nClawdbot: ’Moltbot’을 거쳐 최종적으로 ’OpenClaw’로 개명, 오픈소스 정신 강조\n\n2026년 2월\n\nOpenAI, OpenClaw 개발자 전격 영입 [34]\nClaude Code Agent Teams(멀티에이전트시대) [35]"
+    "section": "2026.01 - 2026.02",
+    "text": "2026.01 - 2026.02\n\n2026년 1월\n\nClawdbot: Anthropic의 상표권 압박, ‘Clawd’ 명칭 사용 중단 요구 [33]\nClawdbot: ’Moltbot’을 거쳐 최종적으로 ’OpenClaw’로 개명, 오픈소스 정신 강조\n\n2026년 2월\n\nOpenAI, OpenClaw 개발자 전격 영입 [34]\nClaude Code Agent Teams(멀티에이전트시대) [35]"
   },
   {
-    "objectID": "260224.html#ai-타임라인-8",
-    "href": "260224.html#ai-타임라인-8",
+    "objectID": "260224.html#주요-경쟁-구도",
+    "href": "260224.html#주요-경쟁-구도",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "AI 타임라인",
-    "text": "AI 타임라인\n주요 경쟁 구도\n\n모델: ChatGPT vs Claude vs Gemini\n에이전틱 AI: Codex vs Claude Code vs Gemini CLI\n통합개발환경: Cursor vs Antigravity (VSCode도 여전히 건재)\n이미지/영상 생성: 나노바나나, DALL-E, Midjourney, Sora\n브라우저 제어 에이전트: Perplexity Comet, Atlas, Claude for Chrome\n기타: NotebookLM (문서→팟캐스트), Gemini for Workspace"
+    "section": "주요 경쟁 구도",
+    "text": "주요 경쟁 구도\n\n모델: ChatGPT vs Claude vs Gemini\n에이전틱 AI: Codex vs Claude Code vs Gemini CLI\n통합개발환경: Cursor vs Antigravity (VSCode도 여전히 건재)\n이미지/영상 생성: 나노바나나, DALL-E, Midjourney, Sora\n브라우저 제어 에이전트: Perplexity Comet, Atlas, Claude for Chrome\n기타: NotebookLM (문서→팟캐스트), Gemini for Workspace"
   },
   {
-    "objectID": "260224.html#ai-타임라인-9",
-    "href": "260224.html#ai-타임라인-9",
+    "objectID": "260224.html#저의-구독-정보",
+    "href": "260224.html#저의-구독-정보",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "AI 타임라인",
-    "text": "AI 타임라인\n저의 구독정보\n\n\n\n서비스\n요금제\n월 요금\n왜?\n\n\n\n\nChatGPT\nPlus \\(\\to\\) Pro \\(\\to\\) Plus\n$20 \\(\\to\\) $200 \\(\\to\\) $20\n-\n\n\nPerplexity\nPro\n$20\nRAG\n\n\nCursor AI\nPro \\(\\to\\) 해지\n$20 \\(\\to\\) 0$\n\n\n\nClaude\nPro \\(\\to\\) Max 20x\n$20 \\(\\to\\) $200\nClaude Code\n\n\nGemini + NotebookLM\nAI Pro\n$20\nGemini CLI, NotebookLM\n\n\n\n\n구독 전략: 번거롭더라도 월 단위 구독이 유리해 보임. 왜?"
-  },
-  {
-    "objectID": "260224.html#references",
-    "href": "260224.html#references",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "References",
-    "text": "References\n\n\n\n\n[1] C. CHANNEL, “80 90 인공지능 가전제품 광고 – ’80 ’90 korean a.i. Home appliances tv commercials.” https://www.youtube.com/watch?v=y7JUEhe0OfY, 2020.\n\n\n[2] R. Sapkota, K. I. Roumeliotis, and M. Karkee, “Vibe coding vs. Agentic coding: Fundamentals and practical implications of agentic ai,” arXiv preprint arXiv:2505.19443, 2025.\n\n\n[3] “Perplexity ask: A game-changing search tool powered by AI.” https://towardsai.net/p/l/perplexity-ask-a-game-changing-search-tool-powered-by-ai.\n\n\n[4] “Google introduces bard, an AI chatbot.” https://www.nytimes.com/2023/02/06/technology/google-bard-ai-chatbot.html.\n\n\n[5] “구글 AI챗봇 ‘바드’ 오답에 시총 126조원 증발.” https://www.seoul.co.kr/news/international/2023/02/10/20230210021001.\n\n\n[6] “자존심 구긴 구글…새로 내놓은 챗봇AI 기대 못 미쳐 주가 폭락.” https://www.chosun.com/economy/tech_it/2023/02/09/MWRHL6L67READLOMI2HWOVDRPA/.\n\n\n[7] “GPT-4.” https://en.wikipedia.org/wiki/GPT-4.\n\n\n[8] “Claude (language model).” https://en.wikipedia.org/wiki/Claude_(language_model).\n\n\n[9] “How cursor serves billions of AI code completions every day.” https://blog.bytebytego.com/p/how-cursor-serves-billions-of-ai.\n\n\n[10] “DeepSeek.” https://en.wikipedia.org/wiki/DeepSeek.\n\n\n[11] CNN, “Google launches gemini, its most-advanced AI model yet, as it races to compete with ChatGPT.”\n\n\n[12] RetroFuturista, “OpenAI unveils sora: A revolutionary AI that transforms text into video.” https://retrofuturista.com/openai-sora/.\n\n\n[13] Google DeepMind, “Gemini 2.5: Our newest gemini model with thinking.” https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/.\n\n\n[14] “GPT-4o.” https://en.wikipedia.org/wiki/GPT-4o.\n\n\n[15] “ChatGPT search.” https://en.wikipedia.org/wiki/ChatGPT_Search.\n\n\n[16] “OpenAI o1.” https://en.wikipedia.org/wiki/OpenAI_o1.\n\n\n[17] “Codeium introduces the windsurf editor, enabling developers to work with ‘AI flows’.” https://www.webwire.com/ViewPressRel.asp?aId=329485.\n\n\n[18] Anthropic, “Model context protocol (MCP) open-source release.” https://www.anthropic.com/news/model-context-protocol.\n\n\n[19] V. capitalist Marc Andreessen / Fortune, “Marc andreessen warns DeepSeek is ‘AI’s sputnik moment’,” Fortune, Jan. 2025.\n\n\n[20] D. Guo et al., “Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning,” arXiv preprint arXiv:2501.12948, 2025.\n\n\n[21] DeepSeek, “DeepSeek-R1 (hugging face model hub).” https://huggingface.co/deepseek-ai/DeepSeek-R1.\n\n\n[22] J. S. / Markets Insider, “Tech stock sell-off: Nvidia, microsoft, others hit by DeepSeek debut,” Markets Insider (Business Insider), Jan. 2025.\n\n\n[23] “NotebookLM.” https://en.wikipedia.org/wiki/NotebookLM.\n\n\n[24] 김민정, “‘챗GPT, 거짓말해서 안 써요’ 대학생 쓰는 ‘노트북LM’ 뭐길래.” 중앙일보 (요약 제공 via ZUM News), Jun. 10, 2025.\n\n\n[25] Anthropic, “Claude code research preview.” https://www.anthropic.com/news/claude-3-7-sonnet.\n\n\n[26] “Vibe coding.” https://en.wikipedia.org/wiki/Vibe_coding.\n\n\n[27] Anthropic, “Claude code: Deep coding at terminal velocity.” https://www.anthropic.com/claude-code.\n\n\n[28] “Google’s gemini CLI: What is it and why it matters?” Science Insight.\n\n\n[29] P. Team, “Introducing comet: Browse at the speed of thought.” https://www.perplexity.ai/hub/blog/introducing-comet.\n\n\n[30] Google, “How nano banana got its name.” https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/, Aug. 26, 2025.\n\n\n[31] OpenAI, “Codex is now generally available.” https://www.neowin.net/news/openai-codex-hits-general-availability-with-new-slack-integration/, Oct. 06, 2025.\n\n\n[32] Mark, “Google antigravity: The revolutionary AI-first IDE that’s redefining how developers code in 2025,” Humai Blog, Nov. 2025, Available: https://www.humai.blog/google-antigravity-the-revolutionary-ai-first-ide-thats-redefining-how-developers-code-in-2025/\n\n\n[33] “Clawdbot becomes moltbot after anthropic trademark issue,” Trending Topics, Jan. 2026, Available: https://www.trendingtopics.eu/clawdbot-moltbot-anthropic/\n\n\n[34] A. Ha, “OpenClaw creator Peter Steinberger joins OpenAI,” TechCrunch, Feb. 2026, Available: https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/\n\n\n[35] Anthropic, “Introducing Claude Opus 4.6.” https://www.anthropic.com/news/claude-opus-4-6, Feb. 05, 2026."
-  },
-  {
-    "objectID": "260224.html#ide",
-    "href": "260224.html#ide",
-    "title": "(미정)",
-    "section": "IDE",
-    "text": "IDE"
-  },
-  {
-    "objectID": "260224.html#논문연구를-위해-필요한-도구",
-    "href": "260224.html#논문연구를-위해-필요한-도구",
-    "title": "(미정)",
-    "section": "논문연구를 위해 필요한 도구",
-    "text": "논문연구를 위해 필요한 도구\nIDE\n\nR: RStudio1, VSCode2, Jupyter\nPython: VSCode, VSCode Forks3, Jupyter, PyCharm, Spyder 등\nJulia: VSCode, Pluto, Jupyter (표준 IDE 없음)\n\n가상환경\n\nPython: conda vs venv(+pip) 양강, 최근 uv/poetry 성장\nR: 사실상 없음\nJulia: 사실상 없음\n\nLaTeX\n\nTeXShop (Mac 기본)\nTeXstudio\nSublime Text + LaTeXTools\nOverleaf\nVSCode + LaTeX Workshop\n\nQuarto\n\nRstudio\nJupyter\nVScode\n\n기타 개발도구\n\n서버환경/Linux (Terminal), NFS – 멀티스레딩\nDocker (학과, 연구실 단위 서버관리)\n\n80-90%가 사용, 사실상 독점Quarto 이후 많이 사용Cursor, Windsurf, Antigravity(Google) 등"
-  },
-  {
-    "objectID": "260224.html#논문-연구를-위해-필요한-도구",
-    "href": "260224.html#논문-연구를-위해-필요한-도구",
-    "title": "(미정)",
-    "section": "논문 연구를 위해 필요한 도구",
-    "text": "논문 연구를 위해 필요한 도구\n\n결론부터 말하면, 저는 Positron 하나로 통합했습니다. 여러 창을 띄울 필요가 없어졌습니다.\n\n\nIDE가상환경LaTeX에이전틱 AI기타 개발 도구\n\n\n\nR: RStudio, VSCode, Jupyter\nPython: VSCode, VSCode Forks(Cursor, Windsurf, Antigravity), Jupyter, PyCharm, Spyder 등\nJulia: VSCode, Pluto, Jupyter\n\n\n\n\nPython: venv(+pip), conda, uv\nR: conda (사실 없어도 무방)\nJulia: conda (사실 없어도 무방)\n\n\n\n\nTeXShop (Mac 기본)\nTeXstudio\nSublime Text + LaTeXTools\nOverleaf (웹 기반 협업)\nVSCode + LaTeX Workshop\n\n\n\n쓰는 도구 — 이미 만들어진 AI를 활용\n\n웹: ChatGPT, Claude, Gemini\nCLI: Claude Code, OpenAI Codex, Gemini CLI\nIDE: Cursor, Windsurf, GitHub Copilot, Cline 등\n\n만드는 도구 — 나만의 에이전트를 구축\n\nLangChain/LangGraph, CrewAI, AutoGen\nOpenAI Agents SDK, Google ADK, LlamaIndex 등\n\n\n\n서버 운영관련\n\nLinux Terminal, NFS, 병렬처리, Docker(학과·연구실 단위 서버 관리)\n\nGit\n\nTerminal, GitHub Desktop, GitKraken, VSCode 내장 Git\n\n…"
-  },
-  {
-    "objectID": "260224.html#r-studio",
-    "href": "260224.html#r-studio",
-    "title": "(미정)",
-    "section": "R Studio",
-    "text": "R Studio"
-  },
-  {
-    "objectID": "260224.html#latex에-대한-고민",
-    "href": "260224.html#latex에-대한-고민",
-    "title": "(미정)",
-    "section": "LaTeX에 대한 고민",
-    "text": "LaTeX에 대한 고민\nOverleaf를 썼던 이유\n\n컴파일이 안정적으로 잘 됨\n에러 수정이 용이\nLaTeX을 잘 다루지 못해도 큰 문제 없이 동작\n\n\nOverleaf가 싫었던 이유\n\n느림\n유료\n\n\n\n현재: Positron + LaTeX Workshop\n\nClaude Code와의 궁합이 매우 우수\n오류를 알아서 수정, 표·그림 등을 알아서 생성"
-  },
-  {
-    "objectID": "260224.html#논문-연구를-위해-필요한-도구와-활용방식",
-    "href": "260224.html#논문-연구를-위해-필요한-도구와-활용방식",
-    "title": "(미정)",
-    "section": "논문 연구를 위해 필요한 도구와 활용방식",
-    "text": "논문 연구를 위해 필요한 도구와 활용방식\n\nIDE가상환경LaTeXQuarto에이전틱 AI 활용기타 개발 도구\n\n\n\nR: RStudio, VSCode, Jupyter\nPython: VSCode, VSCode Forks(Cursor, Windsurf, Antigravity), Jupyter, PyCharm, Spyder 등\nJulia: VSCode, Pluto, Jupyter\n\n\n\n\nPython: venv(+pip), conda, uv\nR: conda (사실 없어도 무방)\nJulia: conda (사실 없어도 무방)\n\n\n\n\nTeXShop (Mac 기본)\nTeXstudio\nSublime Text + LaTeXTools\nOverleaf (웹 기반 협업)\nVSCode + LaTeX Workshop\n\n\n\n\nRStudio\nJupyter\nVSCode\n\n\n\n\n웹: ChatGPT, Claude 등에 로그인하여 활용\n터미널: Claude Code 등 CLI 도구 활용\nIDE: VSCode Extension(Copilot, Cline 등) 활용\n\n\n\n\n서버 운영관련: Linux Terminal, NFS, 병렬처리, Docker(학과·연구실 단위 서버 관리)\nGit: Terminal, GitHub Desktop, GitKraken, VSCode 내장 Git\n…"
-  },
-  {
-    "objectID": "260224.html#고latex에-대한-고민",
-    "href": "260224.html#고latex에-대한-고민",
-    "title": "(미정)",
-    "section": "고LaTeX에 대한 고민",
-    "text": "고LaTeX에 대한 고민\nOverleaf를 썼던 이유\n\n컴파일이 안정적으로 잘 됨\n에러 수정이 용이\nLaTeX을 잘 다루지 못해도 큰 문제 없이 동작\n\n\nOverleaf가 싫었던 이유\n\n느림\n유료\n\n\n\n현재: Positron + LaTeX Workshop\n\nClaude Code와의 궁합이 매우 우수\n오류를 알아서 수정, 표·그림 등을 알아서 생성"
-  },
-  {
-    "objectID": "260224.html#고민1-latex에-대한-고민",
-    "href": "260224.html#고민1-latex에-대한-고민",
-    "title": "(미정)",
-    "section": "고민1: LaTeX에 대한 고민",
-    "text": "고민1: LaTeX에 대한 고민\nOverleaf를 썼던 이유\n\n컴파일이 안정적으로 잘 됨\n에러 수정이 용이\nLaTeX을 잘 다루지 못해도 큰 문제 없이 동작\n\n\nOverleaf가 싫었던 이유\n\n느림\n유료\n\n\n\n현재: Positron + LaTeX Workshop\n\nClaude Code와의 궁합이 매우 우수\n오류를 알아서 수정, 표·그림 등을 알아서 생성"
-  },
-  {
-    "objectID": "260224.html#고민1-latex",
-    "href": "260224.html#고민1-latex",
-    "title": "(미정)",
-    "section": "고민1: LaTeX",
-    "text": "고민1: LaTeX\nOverleaf를 썼던 이유\n\n컴파일이 안정적으로 잘 됨\n에러 수정이 용이\nLaTeX을 잘 다루지 못해도 큰 문제 없이 동작\n\n\nOverleaf가 싫었던 이유\n\n느림, 유료\n\n\n\n현재: Positron + LaTeX Workshop\n\nClaude Code와의 궁합이 매우 우수\n오류를 알아서 수정, 표·그림 등을 알아서 생성"
-  },
-  {
-    "objectID": "260224.html#latex-1",
-    "href": "260224.html#latex-1",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "LaTeX",
-    "text": "LaTeX\n\n\n\n\n\n\n\n\n\n\n\n레거시 편집기1\nOverleaf\nVSCode\nPositron\n\n\n\n\nAI Assist\n불가능\n가능\n가능\n가능\n\n\n+ 에이전틱 AI\n불가능\n불가능\n가능\n가능\n\n\n컴파일 속도\n매우 빠름\n느림\n빠름\n빠름\n\n\n에러 수정\n불편\n편리\n매우 편리\n매우 편리\n\n\n표·그림 작성\n불편\n불편\n매우 편리\n매우 편리\n\n\n편의 기능\n미흡\n매우 우수\n우수\n우수\n\n\n협업 기능\n불가능\n가능\n불가능\n불가능\n\n\n비용\n무료\n유료\n무료\n무료\n\n\n\nTeXShop, Sublime Text, TeXstudio"
+    "section": "저의 구독 정보",
+    "text": "저의 구독 정보\n\n\n\n서비스\n요금제\n월 요금\n왜?\n\n\n\n\nChatGPT\nPlus \\(\\to\\) Pro \\(\\to\\) Plus\n$20 \\(\\to\\) $200 \\(\\to\\) $20\n-\n\n\nPerplexity\nPro\n$20\nRAG\n\n\nCursor AI\nPro \\(\\to\\) 해지\n$20 \\(\\to\\) 0$\n\n\n\nClaude\nPro \\(\\to\\) Max 20x\n$20 \\(\\to\\) $200\nClaude Code\n\n\nGemini + NotebookLM\nAI Pro\n$20\nGemini CLI, NotebookLM\n\n\n\n\n구독 전략: 번거롭더라도 월 단위 구독이 유리해 보임. 왜?"
   },
   {
     "objectID": "260224.html#논문-연구를-위해-필요했던-도구들",
@@ -180,6 +110,13 @@
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "논문 연구를 위해 필요했던 도구들",
     "text": "논문 연구를 위해 필요했던 도구들\n\n결론부터 말하면, 저는 Positron 하나로 통합했습니다. 더 이상 여러 도구를 오갈 필요가 없어졌습니다.\n\n\nIDE가상환경LaTeX에이전틱 AI기타 개발 도구\n\n\n\nR: RStudio, VSCode, Jupyter\nPython: VSCode, VSCode Forks(Cursor, Windsurf, Antigravity), Jupyter, PyCharm, Spyder 등\nJulia: VSCode, Pluto, Jupyter\n\n\n\n\nPython: venv(+pip), conda, uv\nR: conda (사실 없어도 무방)\nJulia: conda (사실 없어도 무방)\n\n\n\n\nTeXShop (Mac 기본)\nTeXstudio\nSublime Text + LaTeXTools\nOverleaf (웹 기반 협업)\nVSCode + LaTeX Workshop\n\n\n\n쓰는 도구 — 이미 만들어진 AI를 활용\n\n웹: ChatGPT, Claude, Gemini\nCLI: Claude Code, OpenAI Codex, Gemini CLI\nIDE: Cursor, Windsurf, GitHub Copilot, Cline 등\n\n만드는 도구 — 나만의 에이전트를 구축\n\nLangChain/LangGraph, CrewAI, AutoGen\nOpenAI Agents SDK, Google ADK, LlamaIndex 등\n\n\n\n서버 운영관련\n\nLinux Terminal, NFS, 병렬처리, Docker(학과·연구실 단위 서버 관리)\n\nGit\n\nTerminal, GitHub Desktop, GitKraken, VSCode 내장 Git\n\n…"
+  },
+  {
+    "objectID": "260224.html#latex-1",
+    "href": "260224.html#latex-1",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "LaTeX",
+    "text": "LaTeX\n\n\n\n\n\n\n\n\n\n\n\n레거시 편집기1\nOverleaf\nVSCode\nPositron\n\n\n\n\nAI Assist\n불가능\n가능\n가능\n가능\n\n\n+ 에이전틱 AI\n불가능\n불가능\n가능\n가능\n\n\n컴파일 속도\n매우 빠름\n느림\n빠름\n빠름\n\n\n에러 수정\n불편\n편리\n매우 편리\n매우 편리\n\n\n표·그림 작성\n불편\n불편\n매우 편리\n매우 편리\n\n\n편의 기능\n미흡\n매우 우수\n우수\n우수\n\n\n협업 기능\n불가능\n가능\n불가능\n불가능\n\n\n비용\n무료\n유료\n무료\n무료\n\n\n\nTeXShop, Sublime Text, TeXstudio"
   },
   {
     "objectID": "260224.html#ide-비교-r-사용자-관점",
@@ -201,5 +138,271 @@
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "에이전틱 AI 활용 환경 비교",
     "text": "에이전틱 AI 활용 환경 비교\n\n터미널: Claude Code 등 CLI 기반 — 코드 컨텍스트 인식, 멀티파일 편집, MCP 지원\nIDE(VS Forks): Positron, Cursor AI 등 — 터미널의 기능 + 이미지 붙여넣기 가능"
+  },
+  {
+    "objectID": "260224.html#positron-claude-code-설치",
+    "href": "260224.html#positron-claude-code-설치",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Positron, Claude Code 설치",
+    "text": "Positron, Claude Code 설치\n\nPositron: positron.posit.co\nClaude Code: claude.ai/download"
+  },
+  {
+    "objectID": "260224.html#openinterminal-lite",
+    "href": "260224.html#openinterminal-lite",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "OpenInTerminal-Lite",
+    "text": "OpenInTerminal-Lite\n\ngithub.com/Ji4n1ng/OpenInTerminal\nFinder에서 현재 폴더를 터미널/에디터로 바로 여는 앱\n설정에서 에디터를 Positron으로 지정 → Finder에서 바로 Positron 실행\n터미널 설정 → claude 바로 실행 가능"
+  },
+  {
+    "objectID": "260224.html#positron-셋팅-extensions",
+    "href": "260224.html#positron-셋팅-extensions",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Positron 셋팅: Extensions",
+    "text": "Positron 셋팅: Extensions\n\n기본 내장: Quarto, Jupyter, Ruff, Pyright, Shiny 등\n필수: Claude Code for VS Code, LaTeX Workshop\n선택: Codex, Material Icon Theme, 마음에 드는 컬러 테마(GitHub Theme 등), …"
+  },
+  {
+    "objectID": "260224.html#positron-셋팅-settings",
+    "href": "260224.html#positron-셋팅-settings",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Positron 셋팅: Settings",
+    "text": "Positron 셋팅: Settings\nCmd + Shift + P → “Open Settings (JSON)” 검색\n{\n    // Positron 내장 AI 끄기 (Claude Code 사용하므로 불필요)\n    \"positron.assistant.enable\": false,\n\n    // 사이드바 아이콘을 상단에 배치 (화면 넓게 사용)\n    \"workbench.activityBar.location\": \"top\",\n\n    // 터미널 폰트 (아이콘·특수문자 깨짐 방지)\n    \"terminal.integrated.fontFamily\": \"MesloLGS NF\",\n\n    // Claude Code를 사이드바에 배치\n    \"claudeCode.preferredLocation\": \"sidebar\",\n\n    // 마크다운에 이미지 붙여넣기 시 images 폴더에 자동 저장\n    \"markdown.editor.filePaste.copyIntoWorkspace\": \"mediaFiles\",\n    \"markdown.copyFiles.destination\": {\n        \"**/*\": \"images/${fileName}\"\n    },\n\n    // LaTeX 파일만 자동 줄바꿈\n    \"[latex]\": {\n        \"editor.wordWrap\": \"on\"\n    },\n\n    // R, Python 인터프리터를 자동 실행하지 않고 수동 선택\n    \"[python]\": {\n        \"interpreters.startupBehavior\": \"manual\"\n    },\n    \"[r]\": {\n        \"interpreters.startupBehavior\": \"manual\"\n    }\n}"
+  },
+  {
+    "objectID": "260224.html#positron-화면-구성",
+    "href": "260224.html#positron-화면-구성",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Positron 화면 구성",
+    "text": "Positron 화면 구성\n\n\n\n위치\n패널\n역할\n\n\n\n\n왼쪽\nExplorer\n파일 탐색기, 프로젝트 폴더 구조\n\n\n중앙\nEditor\n코드·문서 편집 (.R, .py, .qmd, .tex 등)\n\n\n아래쪽\nTerminal\n터미널, Claude Code CLI 실행\n\n\n아래쪽\nConsole\nR/Python 콘솔 (인터프리터 연결)\n\n\n오른쪽\nPlots / Variables\n변수 목록"
+  },
+  {
+    "objectID": "260224.html#실습1-프로젝트-폴더-만들기",
+    "href": "260224.html#실습1-프로젝트-폴더-만들기",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "실습1: 프로젝트 폴더 만들기",
+    "text": "실습1: 프로젝트 폴더 만들기"
+  },
+  {
+    "objectID": "260224.html#실습2-positron-열기",
+    "href": "260224.html#실습2-positron-열기",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "실습2: Positron 열기",
+    "text": "실습2: Positron 열기"
+  },
+  {
+    "objectID": "260224.html#실습3-r-사용하기",
+    "href": "260224.html#실습3-r-사용하기",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "실습3: R 사용하기",
+    "text": "실습3: R 사용하기"
+  },
+  {
+    "objectID": "260224.html#실습4-terminal-사용하기",
+    "href": "260224.html#실습4-terminal-사용하기",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "실습4: Terminal 사용하기",
+    "text": "실습4: Terminal 사용하기"
+  },
+  {
+    "objectID": "260224.html#실습5-클로드코드-켜보기",
+    "href": "260224.html#실습5-클로드코드-켜보기",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "실습5: 클로드코드 켜보기",
+    "text": "실습5: 클로드코드 켜보기"
+  },
+  {
+    "objectID": "260224.html#실습6-.tex-사용하기",
+    "href": "260224.html#실습6-.tex-사용하기",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "실습6: .tex 사용하기",
+    "text": "실습6: .tex 사용하기"
+  },
+  {
+    "objectID": "260224.html#실습7-설정이해하기",
+    "href": "260224.html#실습7-설정이해하기",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "실습7: 설정이해하기",
+    "text": "실습7: 설정이해하기"
+  },
+  {
+    "objectID": "260224.html#example-1-압축-풀기-linux",
+    "href": "260224.html#example-1-압축-풀기-linux",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 1: 압축 풀기 (Linux)",
+    "text": "Example 1: 압축 풀기 (Linux)"
+  },
+  {
+    "objectID": "260224.html#example-2-파일-정리",
+    "href": "260224.html#example-2-파일-정리",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 2: 파일 정리",
+    "text": "Example 2: 파일 정리"
+  },
+  {
+    "objectID": "260224.html#example-3-데이터-정리-기말고사-점수표",
+    "href": "260224.html#example-3-데이터-정리-기말고사-점수표",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 3: 데이터 정리 (기말고사 점수표)",
+    "text": "Example 3: 데이터 정리 (기말고사 점수표)"
+  },
+  {
+    "objectID": "260224.html#example-4-디버깅-짜증나는-인덱스-코드-해결",
+    "href": "260224.html#example-4-디버깅-짜증나는-인덱스-코드-해결",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 4: 디버깅 (짜증나는 인덱스 코드 해결)",
+    "text": "Example 4: 디버깅 (짜증나는 인덱스 코드 해결)"
+  },
+  {
+    "objectID": "260224.html#example-5-데이터-다운로드-불러오기",
+    "href": "260224.html#example-5-데이터-다운로드-불러오기",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 5: 데이터 다운로드 + 불러오기",
+    "text": "Example 5: 데이터 다운로드 + 불러오기"
+  },
+  {
+    "objectID": "260224.html#example-6-패키지-설치-불러오기",
+    "href": "260224.html#example-6-패키지-설치-불러오기",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 6: 패키지 설치 + 불러오기",
+    "text": "Example 6: 패키지 설치 + 불러오기"
+  },
+  {
+    "objectID": "260224.html#example-7-프로젝트-파악",
+    "href": "260224.html#example-7-프로젝트-파악",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 7: 프로젝트 파악",
+    "text": "Example 7: 프로젝트 파악"
+  },
+  {
+    "objectID": "260224.html#example-8-이미지-변환-샤프닝-스무딩-언더샘플링-리사이징",
+    "href": "260224.html#example-8-이미지-변환-샤프닝-스무딩-언더샘플링-리사이징",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 8: 이미지 변환 (샤프닝, 스무딩, 언더샘플링, 리사이징)",
+    "text": "Example 8: 이미지 변환 (샤프닝, 스무딩, 언더샘플링, 리사이징)"
+  },
+  {
+    "objectID": "260224.html#example-9-오디오-변환-언더샘플링",
+    "href": "260224.html#example-9-오디오-변환-언더샘플링",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 9: 오디오 변환 (언더샘플링)",
+    "text": "Example 9: 오디오 변환 (언더샘플링)"
+  },
+  {
+    "objectID": "260224.html#example-10-wt-등-간단한-변환-적용",
+    "href": "260224.html#example-10-wt-등-간단한-변환-적용",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 10: WT 등 간단한 변환 적용",
+    "text": "Example 10: WT 등 간단한 변환 적용"
+  },
+  {
+    "objectID": "260224.html#example-11-프로젝트-페이지-만들기",
+    "href": "260224.html#example-11-프로젝트-페이지-만들기",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 11: 프로젝트 페이지 만들기",
+    "text": "Example 11: 프로젝트 페이지 만들기"
+  },
+  {
+    "objectID": "260224.html#example-12-패키지-배포",
+    "href": "260224.html#example-12-패키지-배포",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 12: 패키지 배포",
+    "text": "Example 12: 패키지 배포"
+  },
+  {
+    "objectID": "260224.html#example-13-iou-계산",
+    "href": "260224.html#example-13-iou-계산",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 13: IoU 계산",
+    "text": "Example 13: IoU 계산"
+  },
+  {
+    "objectID": "260224.html#example-14-시각화",
+    "href": "260224.html#example-14-시각화",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 14: 시각화",
+    "text": "Example 14: 시각화"
+  },
+  {
+    "objectID": "260224.html#example-15-latex-다이어그램",
+    "href": "260224.html#example-15-latex-다이어그램",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 15: LaTeX 다이어그램",
+    "text": "Example 15: LaTeX 다이어그램"
+  },
+  {
+    "objectID": "260224.html#example-16-가상환경-관리",
+    "href": "260224.html#example-16-가상환경-관리",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 16: 가상환경 관리",
+    "text": "Example 16: 가상환경 관리"
+  },
+  {
+    "objectID": "260224.html#example-17-여러-커널을-이용한-반복-계산",
+    "href": "260224.html#example-17-여러-커널을-이용한-반복-계산",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 17: 여러 커널을 이용한 반복 계산",
+    "text": "Example 17: 여러 커널을 이용한 반복 계산"
+  },
+  {
+    "objectID": "260224.html#example-18-표-작성-삽입",
+    "href": "260224.html#example-18-표-작성-삽입",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "Example 18: 표 작성 + 삽입",
+    "text": "Example 18: 표 작성 + 삽입"
+  },
+  {
+    "objectID": "260224.html#references",
+    "href": "260224.html#references",
+    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
+    "section": "References",
+    "text": "References\n\n\n\n\n[1] C. CHANNEL, “80 90 인공지능 가전제품 광고 – ’80 ’90 korean a.i. Home appliances tv commercials.” https://www.youtube.com/watch?v=y7JUEhe0OfY, 2020.\n\n\n[2] R. Sapkota, K. I. Roumeliotis, and M. Karkee, “Vibe coding vs. Agentic coding: Fundamentals and practical implications of agentic ai,” arXiv preprint arXiv:2505.19443, 2025.\n\n\n[3] “Perplexity ask: A game-changing search tool powered by AI.” https://towardsai.net/p/l/perplexity-ask-a-game-changing-search-tool-powered-by-ai.\n\n\n[4] “Google introduces bard, an AI chatbot.” https://www.nytimes.com/2023/02/06/technology/google-bard-ai-chatbot.html.\n\n\n[5] “구글 AI챗봇 ‘바드’ 오답에 시총 126조원 증발.” https://www.seoul.co.kr/news/international/2023/02/10/20230210021001.\n\n\n[6] “자존심 구긴 구글…새로 내놓은 챗봇AI 기대 못 미쳐 주가 폭락.” https://www.chosun.com/economy/tech_it/2023/02/09/MWRHL6L67READLOMI2HWOVDRPA/.\n\n\n[7] “GPT-4.” https://en.wikipedia.org/wiki/GPT-4.\n\n\n[8] “Claude (language model).” https://en.wikipedia.org/wiki/Claude_(language_model).\n\n\n[9] “How cursor serves billions of AI code completions every day.” https://blog.bytebytego.com/p/how-cursor-serves-billions-of-ai.\n\n\n[10] “DeepSeek.” https://en.wikipedia.org/wiki/DeepSeek.\n\n\n[11] CNN, “Google launches gemini, its most-advanced AI model yet, as it races to compete with ChatGPT.”\n\n\n[12] RetroFuturista, “OpenAI unveils sora: A revolutionary AI that transforms text into video.” https://retrofuturista.com/openai-sora/.\n\n\n[13] Google DeepMind, “Gemini 2.5: Our newest gemini model with thinking.” https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/.\n\n\n[14] “GPT-4o.” https://en.wikipedia.org/wiki/GPT-4o.\n\n\n[15] “ChatGPT search.” https://en.wikipedia.org/wiki/ChatGPT_Search.\n\n\n[16] “OpenAI o1.” https://en.wikipedia.org/wiki/OpenAI_o1.\n\n\n[17] “Codeium introduces the windsurf editor, enabling developers to work with ‘AI flows’.” https://www.webwire.com/ViewPressRel.asp?aId=329485.\n\n\n[18] Anthropic, “Model context protocol (MCP) open-source release.” https://www.anthropic.com/news/model-context-protocol.\n\n\n[19] V. capitalist Marc Andreessen / Fortune, “Marc andreessen warns DeepSeek is ‘AI’s sputnik moment’,” Fortune, Jan. 2025.\n\n\n[20] D. Guo et al., “Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning,” arXiv preprint arXiv:2501.12948, 2025.\n\n\n[21] DeepSeek, “DeepSeek-R1 (hugging face model hub).” https://huggingface.co/deepseek-ai/DeepSeek-R1.\n\n\n[22] J. S. / Markets Insider, “Tech stock sell-off: Nvidia, microsoft, others hit by DeepSeek debut,” Markets Insider (Business Insider), Jan. 2025.\n\n\n[23] “NotebookLM.” https://en.wikipedia.org/wiki/NotebookLM.\n\n\n[24] 김민정, “‘챗GPT, 거짓말해서 안 써요’ 대학생 쓰는 ‘노트북LM’ 뭐길래.” 중앙일보 (요약 제공 via ZUM News), Jun. 10, 2025.\n\n\n[25] Anthropic, “Claude code research preview.” https://www.anthropic.com/news/claude-3-7-sonnet.\n\n\n[26] “Vibe coding.” https://en.wikipedia.org/wiki/Vibe_coding.\n\n\n[27] Anthropic, “Claude code: Deep coding at terminal velocity.” https://www.anthropic.com/claude-code.\n\n\n[28] “Google’s gemini CLI: What is it and why it matters?” Science Insight.\n\n\n[29] P. Team, “Introducing comet: Browse at the speed of thought.” https://www.perplexity.ai/hub/blog/introducing-comet.\n\n\n[30] Google, “How nano banana got its name.” https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/, Aug. 26, 2025.\n\n\n[31] OpenAI, “Codex is now generally available.” https://www.neowin.net/news/openai-codex-hits-general-availability-with-new-slack-integration/, Oct. 06, 2025.\n\n\n[32] Mark, “Google antigravity: The revolutionary AI-first IDE that’s redefining how developers code in 2025,” Humai Blog, Nov. 2025, Available: https://www.humai.blog/google-antigravity-the-revolutionary-ai-first-ide-thats-redefining-how-developers-code-in-2025/\n\n\n[33] “Clawdbot becomes moltbot after anthropic trademark issue,” Trending Topics, Jan. 2026, Available: https://www.trendingtopics.eu/clawdbot-moltbot-anthropic/\n\n\n[34] A. Ha, “OpenClaw creator Peter Steinberger joins OpenAI,” TechCrunch, Feb. 2026, Available: https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/\n\n\n[35] Anthropic, “Introducing Claude Opus 4.6.” https://www.anthropic.com/news/claude-opus-4-6, Feb. 05, 2026."
+  },
+  {
+    "objectID": "draft.html#claude-code-설치",
+    "href": "draft.html#claude-code-설치",
+    "title": "",
+    "section": "claude code 설치",
+    "text": "claude code 설치"
+  },
+  {
+    "objectID": "draft.html#positron-설치",
+    "href": "draft.html#positron-설치",
+    "title": "",
+    "section": "Positron 설치",
+    "text": "Positron 설치"
+  },
+  {
+    "objectID": "draft.html#openinterminal-설치",
+    "href": "draft.html#openinterminal-설치",
+    "title": "",
+    "section": "OpenInTerminal 설치",
+    "text": "OpenInTerminal 설치\nhttps://github.com/Ji4n1ng/OpenInTerminal"
+  },
+  {
+    "objectID": "draft.html#에드온설치",
+    "href": "draft.html#에드온설치",
+    "title": "",
+    "section": "에드온설치",
+    "text": "에드온설치"
+  },
+  {
+    "objectID": "draft.html#장점1-gitquarto-와의-호환성-설명",
+    "href": "draft.html#장점1-gitquarto-와의-호환성-설명",
+    "title": "",
+    "section": "장점1: git/quarto 와의 호환성 설명",
+    "text": "장점1: git/quarto 와의 호환성 설명"
+  },
+  {
+    "objectID": "draft.html#장점2-terminal",
+    "href": "draft.html#장점2-terminal",
+    "title": "",
+    "section": "장점2: Terminal",
+    "text": "장점2: Terminal"
+  },
+  {
+    "objectID": "draft.html#장점3-pane-resizing",
+    "href": "draft.html#장점3-pane-resizing",
+    "title": "",
+    "section": "장점3: “pane resizing”",
+    "text": "장점3: “pane resizing”"
   }
 ]
