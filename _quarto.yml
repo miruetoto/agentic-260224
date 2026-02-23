@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - 260224.qmd
 execute:
   cache: true
   echo: true
