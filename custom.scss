@@ -113,3 +113,10 @@ table.dataframe {
 .reveal table th {
   text-align: left !important;
 }
+
+/* 비디오(iframe) 가운데 정렬 */
+.reveal section iframe {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
