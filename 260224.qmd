@@ -117,6 +117,7 @@ csl: ieee.csl
 - 2024년 11월 
     - Windsurf 출시 (Cursor AI와 경쟁) [@webwire_windsurf_editor_launch]
     - MCP 출시 (Anthropic이 오픈소스로 공개) [@anthropic_mcp_open_source] // [살펴보기](https://www.youtube.com/shorts/XPACEy2JlOk)
+    
 ## 2025.01 - 2025.07
 
 - 2025년 1월 
