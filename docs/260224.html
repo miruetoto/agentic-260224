@@ -1188,17 +1188,6 @@
 <h1>에이전틱 AI 활용 예시</h1>
 
 </section>
-<section id="데모보기-테스트" class="slide level2">
-<h2>데모보기 테스트</h2>
-<button onclick="event.stopPropagation(); var m=document.getElementById('modal-test'); m.style.display='flex'; document.body.appendChild(m);" style="font-size:0.7em; cursor:pointer; background:none; border:1px solid #ff6f61; color:#ff6f61; padding:4px 10px; border-radius:4px;">
-▶ 영상 보기
-</button>
-<div id="modal-test" onclick="event.stopPropagation(); this.querySelector('video').pause(); this.style.display='none';" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.9); z-index:99999; justify-content:center; align-items:center; cursor:pointer;">
-<video controls="" onclick="event.stopPropagation();" width="900" style="max-width:90vw; max-height:90vh; cursor:default;">
-<source src="movs/rec3.mov">
-</video>
-</div>
-</section>
 <section id="예제1-압축-해제" class="slide level2">
 <h2>예제1: 압축 해제</h2>
 <p>아래 URL의 파일을 다운받고 압축해제하기</p>
@@ -1224,6 +1213,23 @@
 </section>
 <section id="예제5-연구하기-emd" class="slide level2">
 <h2>예제5: 연구하기 (EMD)</h2>
+</section>
+<section id="소소한-활용예시" class="slide level2">
+<h2>소소한 활용예시</h2>
+<ul>
+<li>영상보기 <button onclick="event.stopPropagation(); var m=document.getElementById('modal-quarto'); m.style.display='flex'; document.body.appendChild(m);" style="font-size:0.7em; cursor:pointer; background:none; border:1px solid #ff6f61; color:#ff6f61; padding:4px 10px; border-radius:4px;">▶ 영상 보기</button></li>
+<li>영상보기 <button onclick="event.stopPropagation(); var m=document.getElementById('modal-git'); m.style.display='flex'; document.body.appendChild(m);" style="font-size:0.7em; cursor:pointer; background:none; border:1px solid #ff6f61; color:#ff6f61; padding:4px 10px; border-radius:4px;">▶ 영상 보기</button></li>
+</ul>
+<div id="modal-quarto" onclick="event.stopPropagation(); this.querySelector('video').pause(); this.style.display='none';" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.9); z-index:99999; justify-content:center; align-items:center; cursor:pointer;">
+<video controls="" onclick="event.stopPropagation();" width="900" style="max-width:90vw; max-height:90vh; cursor:default;">
+<source src="movs/quarto.mov">
+</video>
+</div>
+<div id="modal-git" onclick="event.stopPropagation(); this.querySelector('video').pause(); this.style.display='none';" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.9); z-index:99999; justify-content:center; align-items:center; cursor:pointer;">
+<video controls="" onclick="event.stopPropagation();" width="900" style="max-width:90vw; max-height:90vh; cursor:default;">
+<source src="movs/git.mov">
+</video>
+</div>
 </section>
 <section id="works" class="slide level2">
 <h2>Works</h2>
