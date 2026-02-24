@@ -46,7 +46,7 @@
     "href": "260224.html#section",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "2022.11 - 2022.12",
-    "text": "2022.11 - 2022.12\n\n2022년 11월\n\nChatGPT 출시\n\n2022년 12월\n\nPerplexity 출시: 답변에 인용 출처를 제공 [3] // 살펴보기"
+    "text": "2022.11 - 2022.12\n\n2022년 11월\n\nChatGPT 출시\n\n2022년 12월\n\nPerplexity 출시: 답변에 인용 출처를 제공 [3]"
   },
   {
     "objectID": "260224.html#section-1",
@@ -67,14 +67,14 @@
     "href": "260224.html#section-3",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "2024.07 - 2024.12",
-    "text": "2024.07 - 2024.12\n\n2024년 7월\n\nSearchGPT (ChatGPT Search) [15]\n\n2024년 9월\n\nOpenAI o1 추론 모델 출시 [16]\n\n2024년 11월\n\nWindsurf 출시 (Cursor AI와 경쟁) [17]\nMCP 출시 (Anthropic이 오픈소스로 공개) [18] // 살펴보기1, 살펴보기2"
+    "text": "2024.07 - 2024.12\n\n2024년 7월\n\nSearchGPT (ChatGPT Search) [15]\n\n2024년 9월\n\nOpenAI o1 추론 모델 출시 [16]\n\n2024년 11월\n\nWindsurf 출시 (Cursor AI와 경쟁) [17]\nMCP 출시 (Anthropic이 오픈소스로 공개) [18]"
   },
   {
     "objectID": "260224.html#section-4",
     "href": "260224.html#section-4",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "2025.01 - 2025.07",
-    "text": "2025.01 - 2025.07\n\n2025년 1월\n\nDeepSeek-R1 출시 – Nvidia 주가 18% 급락 [19], [20], [21], [22]\n\n2025년 2월\n\nNotebookLM 출시 [23], [24] // 살펴보기\nClaude 3.7 Sonnet + Claude Code 연구 프리뷰 [25]\nVibe Coding 용어 등장 [26]\n\n2025년 5월\n\nClaude Code 정식 출시 [27] // 살펴보기\n\n2025년 7월\n\nGoogle Gemini CLI 출시 [28]\nPerplexity Comet 브라우저 출시 [29] // 살펴보기"
+    "text": "2025.01 - 2025.07\n\n2025년 1월\n\nDeepSeek-R1 출시 – Nvidia 주가 18% 급락 [19], [20], [21], [22]\n\n2025년 2월\n\nNotebookLM 출시 [23], [24]\nClaude 3.7 Sonnet + Claude Code 연구 프리뷰 [25]\nVibe Coding 용어 등장 [26]\n\n2025년 5월\n\nClaude Code 정식 출시 [27]\n\n2025년 7월\n\nGoogle Gemini CLI 출시 [28]\nPerplexity Comet 브라우저 출시 [29] // 살펴보기"
   },
   {
     "objectID": "260224.html#section-5",
@@ -102,7 +102,7 @@
     "href": "260224.html#저의-구독-정보",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
     "section": "저의 구독 정보",
-    "text": "저의 구독 정보\n\n\n\n\n서비스\n요금제\n월 요금\n왜?\n\n\n\n\nChatGPT\nPlus \\(\\to\\) Pro \\(\\to\\) Plus\n$20 \\(\\to\\) $200 \\(\\to\\) $20\n-\n\n\nPerplexity\nPro\n$20\nRAG\n\n\nCursor AI\nPro \\(\\to\\) 해지\n$20 \\(\\to\\) 0$\n\n\n\nClaude\nPro \\(\\to\\) Max 20x\n$20 \\(\\to\\) $200\nClaude Code\n\n\nGemini + NotebookLM\nAI Pro\n$20\nGemini CLI, NotebookLM\n\n\n\n\n\n구독 전략: 번거롭더라도 월 단위 구독이 유리해 보임. 왜?"
+    "text": "저의 구독 정보\n\n\n\n\n서비스\n요금제\n월 요금\n왜?\n\n\n\n\nChatGPT\nPlus \\(\\to\\) Pro \\(\\to\\) Plus\n$20 \\(\\to\\) $200 \\(\\to\\) $20\n-\n\n\nPerplexity\nPro\n$20\nRAG\n\n\nCursor AI\nPro \\(\\to\\) 해지\n$20 \\(\\to\\) 0$\n\n\n\nClaude\nPro \\(\\to\\) Max 20x\n$20 \\(\\to\\) $200\nClaude Code\n\n\nGemini + NotebookLM\nAI Pro\n$20\nGemini CLI, NotebookLM\n\n\n\n\n\n구독 전략: 번거롭더라도 월 단위 구독이 유리해 보임. 왜? 너무 빨리변해서."
   },
   {
     "objectID": "260224.html#논문-연구를-위해-필요했던-도구들",
@@ -245,130 +245,53 @@
     "text": "데모보기 테스트\n\n▶ 영상 보기"
   },
   {
-    "objectID": "260224.html#example-압축-해제",
-    "href": "260224.html#example-압축-해제",
+    "objectID": "260224.html#예제1-압축-해제",
+    "href": "260224.html#예제1-압축-해제",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 압축 해제",
-    "text": "Example: 압축 해제\n문제: 아래 URL의 파일을 다운받고 압축해제하기\n\nhttps://github.com/guebin/rda251022/blob/main/Downloads.zip"
+    "section": "예제1: 압축 해제",
+    "text": "예제1: 압축 해제\n아래 URL의 파일을 다운받고 압축해제하기\n\nhttps://github.com/miruetoto/agentic-260224/blob/main/Downloads.zip"
   },
   {
-    "objectID": "260224.html#example-파일-정리",
-    "href": "260224.html#example-파일-정리",
+    "objectID": "260224.html#예제2-파일-정리",
+    "href": "260224.html#예제2-파일-정리",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 파일 정리",
-    "text": "Example: 파일 정리\n문제: 현재 폴더에 여러 확장자의 파일이 섞여 있다. 확장자별로 하위 폴더를 만들어 정리해보기\n\n이 폴더에 있는 파일들을 확장자별로 분류해서 하위 폴더로 정리해줘"
+    "section": "예제2: 파일 정리",
+    "text": "예제2: 파일 정리\n예제1에서 다운로드한 파일들을 확장자별로 정리해보기"
   },
   {
-    "objectID": "260224.html#example-데이터-정리-기말고사-점수표",
-    "href": "260224.html#example-데이터-정리-기말고사-점수표",
+    "objectID": "260224.html#예제3-데이터-정리",
+    "href": "260224.html#예제3-데이터-정리",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 데이터 정리 (기말고사 점수표)",
-    "text": "Example: 데이터 정리 (기말고사 점수표)\n문제: 엑셀 파일에서 기말고사 점수만 추출하여 학번 순으로 정렬한 CSV를 만들어보기\n\n이 엑셀 파일에서 기말고사 점수만 추출해서 학번 순으로 정렬하고 CSV로 저장해줘"
+    "section": "예제3: 데이터 정리",
+    "text": "예제3: 데이터 정리\n예제1에서 다운로드한 파일중 텍스트파일을 정리하여 하나의 csv로 만들기"
   },
   {
-    "objectID": "260224.html#example-디버깅",
-    "href": "260224.html#example-디버깅",
+    "objectID": "260224.html#예제4-시각화",
+    "href": "260224.html#예제4-시각화",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 디버깅",
-    "text": "Example: 디버깅\n문제: 아래 코드를 실행하면 IndexError가 발생한다. 원인을 찾아 수정해보기\n\n이 코드 실행하면 IndexError 나는데 고쳐줘"
+    "section": "예제4: 시각화",
+    "text": "예제4: 시각화\n중간고사, 기말고사 점수를 시각화하기"
   },
   {
-    "objectID": "260224.html#example-데이터-다운로드-불러오기",
-    "href": "260224.html#example-데이터-다운로드-불러오기",
+    "objectID": "260224.html#예제4-간단한-이미지-처리",
+    "href": "260224.html#예제4-간단한-이미지-처리",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 데이터 다운로드 + 불러오기",
-    "text": "Example: 데이터 다운로드 + 불러오기\n문제: UCI ML Repository에서 Iris 데이터를 다운받아 pandas DataFrame으로 불러와보기\n\nUCI Machine Learning Repository에서 Iris 데이터 다운받아서 pandas로 불러와줘"
+    "section": "예제4: 간단한 이미지 처리",
+    "text": "예제4: 간단한 이미지 처리\n이미지 불러오기, 샤프닝"
   },
   {
-    "objectID": "260224.html#example-패키지-설치-불러오기",
-    "href": "260224.html#example-패키지-설치-불러오기",
+    "objectID": "260224.html#예제5-연구하기-emd",
+    "href": "260224.html#예제5-연구하기-emd",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 패키지 설치 + 불러오기",
-    "text": "Example: 패키지 설치 + 불러오기\n문제: R 스크립트에서 사용하는 패키지 중 미설치된 것만 골라 설치해보기\n\n이 R 스크립트에서 필요한 패키지 확인하고 없는 것만 설치해줘"
+    "section": "예제5: 연구하기 (EMD)",
+    "text": "예제5: 연구하기 (EMD)"
   },
   {
-    "objectID": "260224.html#example-프로젝트-파악",
-    "href": "260224.html#example-프로젝트-파악",
+    "objectID": "260224.html#works",
+    "href": "260224.html#works",
     "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 프로젝트 파악",
-    "text": "Example: 프로젝트 파악\n문제: 처음 보는 프로젝트를 넘겨받았다. 구조를 파악하고 설명해보기\n\n이 프로젝트 구조 파악해서 어떤 프로젝트인지 설명해줘"
-  },
-  {
-    "objectID": "260224.html#example-이미지-변환",
-    "href": "260224.html#example-이미지-변환",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 이미지 변환",
-    "text": "Example: 이미지 변환\n문제: images/ 폴더의 모든 PNG를 256×256으로 리사이즈하고 가우시안 블러를 적용해보기\n\nimages/ 폴더의 모든 PNG를 256x256으로 리사이즈하고 가우시안 블러 적용해줘"
-  },
-  {
-    "objectID": "260224.html#example-오디오-변환",
-    "href": "260224.html#example-오디오-변환",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 오디오 변환",
-    "text": "Example: 오디오 변환\n문제: https://github.com/pdx-cs-sound/wavs에서 WAV 파일 몇 개를 다운받아 샘플링 레이트를 16kHz로 낮춰보기\n\nhttps://github.com/pdx-cs-sound/wavs 여기서 WAV 파일 3개 다운받아서 샘플링 레이트를 16kHz로 낮춰줘"
-  },
-  {
-    "objectID": "260224.html#example-간단한-변환-적용",
-    "href": "260224.html#example-간단한-변환-적용",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 간단한 변환 적용",
-    "text": "Example: 간단한 변환 적용\n문제: 신호 데이터에 Wavelet Transform을 적용하여 결과를 저장해보기\n\n이 신호 데이터에 Wavelet Transform 적용해서 결과 저장해줘"
-  },
-  {
-    "objectID": "260224.html#example-프로젝트-페이지-만들기",
-    "href": "260224.html#example-프로젝트-페이지-만들기",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 프로젝트 페이지 만들기",
-    "text": "Example: 프로젝트 페이지 만들기\n문제: 이 프로젝트의 결과를 Quarto로 GitHub Pages에 공개해보기\n\n이 프로젝트의 GitHub Pages를 Quarto로 만들어줘"
-  },
-  {
-    "objectID": "260224.html#example-패키지-배포",
-    "href": "260224.html#example-패키지-배포",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 패키지 배포",
-    "text": "Example: 패키지 배포\n문제: R 함수들을 패키지로 만들어 GitHub에 배포할 수 있게 해보기\n\n이 R 함수들을 패키지로 만들어서 GitHub에 배포할 수 있게 해줘"
-  },
-  {
-    "objectID": "260224.html#example-iou-계산",
-    "href": "260224.html#example-iou-계산",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: IoU 계산",
-    "text": "Example: IoU 계산\n문제: 예측 마스크(predicted.png)와 정답 마스크(ground_truth.png)의 IoU를 계산해보기\n\npredicted.png와 ground_truth.png의 IoU를 계산해줘"
-  },
-  {
-    "objectID": "260224.html#example-시각화",
-    "href": "260224.html#example-시각화",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 시각화",
-    "text": "Example: 시각화\n문제: CSV 데이터를 논문에 바로 넣을 수 있는 품질의 그래프로 만들어보기\n\n이 CSV 데이터로 논문에 넣을 수 있는 깔끔한 그래프 만들어줘"
-  },
-  {
-    "objectID": "260224.html#example-latex-다이어그램",
-    "href": "260224.html#example-latex-다이어그램",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: LaTeX 다이어그램",
-    "text": "Example: LaTeX 다이어그램\n문제: 네트워크 구조를 TikZ 다이어그램으로 그려보기\n\n이 네트워크 구조를 TikZ로 그려줘"
-  },
-  {
-    "objectID": "260224.html#example-가상환경-관리",
-    "href": "260224.html#example-가상환경-관리",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 가상환경 관리",
-    "text": "Example: 가상환경 관리\n문제: 이 프로젝트용 uv 가상환경을 만들고 requirements.txt의 패키지를 설치해보기\n\n이 프로젝트용 uv 가상환경 만들고 requirements.txt 패키지 설치해줘"
-  },
-  {
-    "objectID": "260224.html#example-여러-커널을-이용한-반복-계산",
-    "href": "260224.html#example-여러-커널을-이용한-반복-계산",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 여러 커널을 이용한 반복 계산",
-    "text": "Example: 여러 커널을 이용한 반복 계산\n문제: 시뮬레이션을 seed 1~100까지 반복 실행하고 결과를 합쳐보기\n\n이 시뮬레이션을 seed 1~100까지 반복 실행하고 결과 합쳐줘"
-  },
-  {
-    "objectID": "260224.html#example-표-작성-삽입",
-    "href": "260224.html#example-표-작성-삽입",
-    "title": "통계 연구자를 위한 에이전틱 AI 활용법 (수정중)",
-    "section": "Example: 표 작성 + 삽입",
-    "text": "Example: 표 작성 + 삽입\n문제: 분석 결과를 LaTeX 표로 만들어 논문 파일에 삽입해보기\n\n이 결과를 LaTeX 표로 만들어서 논문 파일에 삽입해줘"
+    "section": "Works",
+    "text": "Works\n\n프로젝트 페이지\n\nhttps://guebin.github.io/cascam-results/\nhttps://guebin.github.io/non-euclidean-models-for-fraud-detection/\n\n패키지 배포\n\nhttps://github.com/guebin/cascam"
   },
   {
     "objectID": "260224.html#references",

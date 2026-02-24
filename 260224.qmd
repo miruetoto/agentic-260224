@@ -80,7 +80,7 @@ csl: ieee.csl
 - 2022년 11월
     - ChatGPT 출시 
 - 2022년 12월
-    - Perplexity 출시: 답변에 인용 출처를 제공 [@towardsai_perplexity] // [살펴보기]()
+    - Perplexity 출시: 답변에 인용 출처를 제공 [@towardsai_perplexity] 
 
 ## 2023.01 - 2023.12
 
@@ -89,7 +89,7 @@ csl: ieee.csl
 - 2023년 3월
     - GPT-4 출시 (멀티모달) [@wikipedia_gpt4]
     - Claude 1.0 출시 [@wikipedia_claude_language_model]
-    - Cursor AI 출시 [@bytebytego_cursor_billions] // [살펴보기]()
+    - Cursor AI 출시 [@bytebytego_cursor_billions] // [살펴보기](https://www.youtube.com/watch?v=CF4Fb9vkrik)
 - 2023년 7월
     - DeepSeek 설립 [@wikipedia_deepseek]
     - Claude 2 출시 [@wikipedia_claude_language_model]
@@ -106,7 +106,7 @@ csl: ieee.csl
 - 2024년 5월
     - GPT-4o 출시 (텍스트, 이미지, 비디오) [@wikipedia_gpt4o]
 - 2024년 6월
-    - Claude 3.5 Sonnet + Artifacts 출시 [@wikipedia_claude_language_model] // [살펴보기1](), [살펴보기2]()
+    - Claude 3.5 Sonnet + Artifacts 출시 [@wikipedia_claude_language_model] // [살펴보기1](https://claude.ai/public/artifacts/45d84b3f-3e51-4297-bcfb-277e98679d94), [살펴보기2](https://guebin.github.io/DL2025/posts/14wk-1.html)
 
 ## 2024.07 - 2024.12
 
@@ -116,21 +116,21 @@ csl: ieee.csl
     - OpenAI o1 추론 모델 출시 [@wikipedia_openai_o1]
 - 2024년 11월 
     - Windsurf 출시 (Cursor AI와 경쟁) [@webwire_windsurf_editor_launch]
-    - MCP 출시 (Anthropic이 오픈소스로 공개) [@anthropic_mcp_open_source] // [살펴보기1](), [살펴보기2]()
+    - MCP 출시 (Anthropic이 오픈소스로 공개) [@anthropic_mcp_open_source]
 
 ## 2025.01 - 2025.07
 
 - 2025년 1월 
     - DeepSeek-R1 출시 -- Nvidia 주가 18% 급락 [@fortune_deepseek_sputnik; @guo2025deepseek; @huggingface_deepseek_r1; @bi_deepseek_nvidia_selloff_2025]
 - 2025년 2월 
-    - NotebookLM 출시 [@wikipedia_notebooklm; @joongang_notebooklm_2025] // [살펴보기]()
+    - NotebookLM 출시 [@wikipedia_notebooklm; @joongang_notebooklm_2025] 
     - Claude 3.7 Sonnet + Claude Code 연구 프리뷰 [@anthropic_claude_code_preview]
     - Vibe Coding 용어 등장 [@wikipedia_vibe_coding]
 - 2025년 5월
-    - Claude Code 정식 출시 [@anthropic_claude_code_overview] // [살펴보기]()
+    - Claude Code 정식 출시 [@anthropic_claude_code_overview] 
 - 2025년 7월
     - Google Gemini CLI 출시 [@scienceinsight_gemini_cli_intro]
-    - Perplexity Comet 브라우저 출시 [@perplexity_comet_launch] // [살펴보기]()
+    - Perplexity Comet 브라우저 출시 [@perplexity_comet_launch] // [살펴보기](https://www.youtube.com/watch?v=o9Cnk2k4zRg&t=821s)
 
 ## 2025.08 - 2025.12
 
@@ -140,7 +140,7 @@ csl: ieee.csl
     - OpenAI Codex 정식 출시(GA) [@openai_codex_ga_2025]
 - 2025년 11월
     - 구글 Antigravity(안티그래비티) 출시 [@humai_google_antigravity_2025]
-    - Clawdbot(클로드봇) 최초 출시 // [살펴보기]()
+    - Clawdbot(클로드봇) 최초 출시 // [살펴보기](https://www.youtube.com/watch?v=N8TKRXM3a1I)
 
 ## 2026.01 - 2026.02
 
@@ -172,7 +172,7 @@ csl: ieee.csl
 | Gemini + NotebookLM | AI Pro | $20 | Gemini CLI, NotebookLM |
 :::
 
-> 구독 전략: 번거롭더라도 월 단위 구독이 유리해 보임. [왜?]()
+> 구독 전략: 번거롭더라도 월 단위 구독이 유리해 보임. 왜? 너무 빨리변해서.
 
 # Why Positron?
 
@@ -396,114 +396,37 @@ csl: ieee.csl
 <video controls onclick="event.stopPropagation();" width="900" style="max-width:90vw; max-height:90vh; cursor:default;"><source src="movs/rec3.mov"></video>
 </div>
 
-## Example: 압축 해제
+## 예제1: 압축 해제
 
-**문제**: 아래 URL의 파일을 다운받고 압축해제하기
+아래 URL의 파일을 다운받고 압축해제하기
 
-- <https://github.com/guebin/rda251022/blob/main/Downloads.zip>
+- <https://github.com/miruetoto/agentic-260224/blob/main/Downloads.zip>
 
 
-## Example: 파일 정리
+## 예제2: 파일 정리
 
-**문제**: 현재 폴더에 여러 확장자의 파일이 섞여 있다. 확장자별로 하위 폴더를 만들어 정리해보기
+예제1에서 다운로드한 파일들을 확장자별로 정리해보기
 
-> `이 폴더에 있는 파일들을 확장자별로 분류해서 하위 폴더로 정리해줘`
+## 예제3: 데이터 정리
 
-## Example: 데이터 정리 (기말고사 점수표)
+예제1에서 다운로드한 파일중 텍스트파일을 정리하여 하나의 csv로 만들기 
 
-**문제**: 엑셀 파일에서 기말고사 점수만 추출하여 학번 순으로 정렬한 CSV를 만들어보기
+## 예제4: 시각화
 
-> `이 엑셀 파일에서 기말고사 점수만 추출해서 학번 순으로 정렬하고 CSV로 저장해줘`
+중간고사, 기말고사 점수를 시각화하기
 
-## Example: 디버깅
+## 예제4: 간단한 이미지 처리
 
-**문제**: 아래 코드를 실행하면 `IndexError`가 발생한다. 원인을 찾아 수정해보기
+이미지 불러오기, 샤프닝 
 
-> `이 코드 실행하면 IndexError 나는데 고쳐줘`
+## 예제5: 연구하기 (EMD)
 
-## Example: 데이터 다운로드 + 불러오기
+## Works
 
-**문제**: UCI ML Repository에서 Iris 데이터를 다운받아 pandas DataFrame으로 불러와보기
-
-> `UCI Machine Learning Repository에서 Iris 데이터 다운받아서 pandas로 불러와줘`
-
-## Example: 패키지 설치 + 불러오기
-
-**문제**: R 스크립트에서 사용하는 패키지 중 미설치된 것만 골라 설치해보기
-
-> `이 R 스크립트에서 필요한 패키지 확인하고 없는 것만 설치해줘`
-
-## Example: 프로젝트 파악
-
-**문제**: 처음 보는 프로젝트를 넘겨받았다. 구조를 파악하고 설명해보기
-
-> `이 프로젝트 구조 파악해서 어떤 프로젝트인지 설명해줘`
-
-## Example: 이미지 변환
-
-**문제**: `images/` 폴더의 모든 PNG를 256×256으로 리사이즈하고 가우시안 블러를 적용해보기
-
-> `images/ 폴더의 모든 PNG를 256x256으로 리사이즈하고 가우시안 블러 적용해줘`
-
-## Example: 오디오 변환
-
-**문제**: `https://github.com/pdx-cs-sound/wavs`에서 WAV 파일 몇 개를 다운받아 샘플링 레이트를 16kHz로 낮춰보기
-
-> `https://github.com/pdx-cs-sound/wavs 여기서 WAV 파일 3개 다운받아서 샘플링 레이트를 16kHz로 낮춰줘`
-
-## Example: 간단한 변환 적용
-
-**문제**: 신호 데이터에 Wavelet Transform을 적용하여 결과를 저장해보기
-
-> `이 신호 데이터에 Wavelet Transform 적용해서 결과 저장해줘`
-
-## Example: 프로젝트 페이지 만들기
-
-**문제**: 이 프로젝트의 결과를 Quarto로 GitHub Pages에 공개해보기
-
-> `이 프로젝트의 GitHub Pages를 Quarto로 만들어줘`
-
-## Example: 패키지 배포
-
-**문제**: R 함수들을 패키지로 만들어 GitHub에 배포할 수 있게 해보기
-
-> `이 R 함수들을 패키지로 만들어서 GitHub에 배포할 수 있게 해줘`
-
-## Example: IoU 계산
-
-**문제**: 예측 마스크(`predicted.png`)와 정답 마스크(`ground_truth.png`)의 IoU를 계산해보기
-
-> `predicted.png와 ground_truth.png의 IoU를 계산해줘`
-
-## Example: 시각화
-
-**문제**: CSV 데이터를 논문에 바로 넣을 수 있는 품질의 그래프로 만들어보기
-
-> `이 CSV 데이터로 논문에 넣을 수 있는 깔끔한 그래프 만들어줘`
-
-## Example: LaTeX 다이어그램
-
-**문제**: 네트워크 구조를 TikZ 다이어그램으로 그려보기
-
-> `이 네트워크 구조를 TikZ로 그려줘`
-
-## Example: 가상환경 관리
-
-**문제**: 이 프로젝트용 uv 가상환경을 만들고 `requirements.txt`의 패키지를 설치해보기
-
-> `이 프로젝트용 uv 가상환경 만들고 requirements.txt 패키지 설치해줘`
-
-## Example: 여러 커널을 이용한 반복 계산
-
-**문제**: 시뮬레이션을 seed 1~100까지 반복 실행하고 결과를 합쳐보기
-
-> `이 시뮬레이션을 seed 1~100까지 반복 실행하고 결과 합쳐줘`
-
-## Example: 표 작성 + 삽입
-
-**문제**: 분석 결과를 LaTeX 표로 만들어 논문 파일에 삽입해보기
-
-> `이 결과를 LaTeX 표로 만들어서 논문 파일에 삽입해줘`
-
+- 프로젝트 페이지 
+    - <https://guebin.github.io/cascam-results/> 
+    - <https://guebin.github.io/non-euclidean-models-for-fraud-detection/> 
+- 패키지 배포 
+    - <https://github.com/guebin/cascam>
 
 ## References
