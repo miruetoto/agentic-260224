@@ -116,8 +116,7 @@ csl: ieee.csl
     - OpenAI o1 추론 모델 출시 [@wikipedia_openai_o1]
 - 2024년 11월 
     - Windsurf 출시 (Cursor AI와 경쟁) [@webwire_windsurf_editor_launch]
-    - MCP 출시 (Anthropic이 오픈소스로 공개) [@anthropic_mcp_open_source]
-
+    - MCP 출시 (Anthropic이 오픈소스로 공개) [@anthropic_mcp_open_source] // [살펴보기](https://www.youtube.com/shorts/XPACEy2JlOk)
 ## 2025.01 - 2025.07
 
 - 2025년 1월 
@@ -162,15 +161,13 @@ csl: ieee.csl
 
 ## 저의 구독 정보
 
-::: {style="font-size: 0.85em;"}
 | 서비스 | 요금제 | 월 요금 | 왜? |
 |--------|--------|---------|---------|
-| ChatGPT | Plus $\to$ Pro $\to$ Plus | $20 $\to$ $200 $\to$ $20 | - |
-| Perplexity | Pro | $20 | [RAG]() |
-| Cursor AI | Pro $\to$ 해지 | $20 $\to$ 0$ | |
-| Claude | Pro $\to$ Max 20x | $20 $\to$ $200 | Claude Code |
-| Gemini + NotebookLM | AI Pro | $20 | Gemini CLI, NotebookLM |
-:::
+| ChatGPT | Plus $\to$ Pro $\to$ Plus | $20 $\to$ $200 $\to$ $20 |
+| Perplexity | Pro | $20 |
+| Cursor AI | Pro $\to$ 해지 | $20 $\to$ 0$ |
+| Claude | Pro $\to$ Max 20x | $20 $\to$ $200 | 
+| Gemini + NotebookLM | AI Pro | $20 | 
 
 > 구독 전략: 번거롭더라도 월 단위 구독이 유리해 보임. 왜? 너무 빨리변해서.
 
