@@ -161,11 +161,11 @@ csl: ieee.csl
 
 ## 저의 구독 정보
 
-| 서비스 | 요금제 | 월 요금 | 왜? |
-|--------|--------|---------|---------|
+| 서비스 | 요금제 | 월 요금 |
+|--------|--------|---------|
 | ChatGPT | Plus $\to$ Pro $\to$ Plus | $20 $\to$ $200 $\to$ $20 |
 | Perplexity | Pro | $20 |
-| Cursor AI | Pro $\to$ 해지 | $20 $\to$ 0$ |
+| Cursor AI | Pro $\to$ 해지 | $20 $\to$ $0 |
 | Claude | Pro $\to$ Max 20x | $20 $\to$ $200 | 
 | Gemini + NotebookLM | AI Pro | $20 | 
 
