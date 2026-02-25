@@ -283,7 +283,7 @@ csl: ieee.csl
 ## Positron, Claude Code 설치
 
 - Positron: [positron.posit.co](https://positron.posit.co)
-- Claude Code: [claude.ai/download](https://claude.ai/download)
+- Claude Code: [code.claude.com/docs/ko/setup](https://code.claude.com/docs/ko/setup)
 
 ## OpenInTerminal-Lite
 
